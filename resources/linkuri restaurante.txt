@@ -1,0 +1,3 @@
+https://glovoapp.com/ro/ro/bucuresti/restaurante_1/?page=2 - need to change city name and clear cookies because otherwise, we are redirected; glovo also has multiple restaurant pages; change glovo_user_city cookie key
+https://tazz.ro/timisoara/restaurante
+https://www.foodpanda.ro/city/timisoara
