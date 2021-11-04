@@ -1,5 +1,6 @@
 from foodscraper import FoodScraper
 from selenium import webdriver
+import time
 
 class TazzScraper(FoodScraper):
     def __init__(self):
@@ -12,6 +13,8 @@ class TazzScraper(FoodScraper):
         url = "https://tazz.ro/"+name+"/restaurante"
         driver = webdriver.Chrome("C:/Users/aleku/Desktop/UPT/SMA/resources/chromedriver.exe")
         driver.get(url)
+
+        time.sleep(5)
 
         scraped_restaurants = driver.find_elements_by_class_name('store-name');
         scraped_prices = driver.find_elements_by_class_name('store-description');
