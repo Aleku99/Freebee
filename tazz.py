@@ -8,9 +8,10 @@ class TazzScraper(FoodScraper):
 
     def update(self):
         pass
-    def scrape(self,city)->dict:
+
+    def scrape(self, city) -> dict:
         name = city.name.strip().lower()
-        url = "https://tazz.ro/"+name+"/restaurante"
+        url = "https://tazz.ro/" + name + "/restaurante"
         driver = webdriver.Chrome("C:/Users/aleku/Desktop/UPT/SMA/resources/chromedriver.exe")
         driver.get(url)
 
@@ -30,7 +31,7 @@ class TazzScraper(FoodScraper):
             prices.append(new_price)
 
         return_dict = {}
-        for (i,j) in zip(restaurants,prices):
-            return_dict.update({i:j})
+        for (i, j) in zip(restaurants, prices):
+            return_dict.update({i: j})
         print(return_dict)
         driver.close()

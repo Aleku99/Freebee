@@ -11,7 +11,7 @@ class FoodPandaScraper(FoodScraper):
         for city in self.cities:
            pass
 
-    def scrape(self,city)->dict: #
+    def scrape(self,city)->dict:
         name = city.name.strip().lower()
         longitude = city.longitude.strip()
         latitude = city.latitude.strip()
