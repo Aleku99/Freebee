@@ -15,10 +15,12 @@ class GlovoScraper(FoodScraper):
         latitude = city.latitude.strip()
         base_url = "https://glovoapp.com/ro/ro/"+name+"/restaurante_1?page="
         driver = webdriver.Chrome("C:/Users/aleku/Desktop/UPT/SMA/resources/chromedriver.exe")
-        driver.delete_all_cookies()
         page = 1
         url = base_url + str(page)
         driver.get(url)
+        driver.delete_cookie("glovo_user_city")
+        driver.delete_cookie("glovo_user_latlng")
+        driver.delete_cookie("glovo_user_cities")
         driver.add_cookie({"name": "glovo_user_city", "value": "TIM"})
         driver.add_cookie({"name": "glovo_user_latlng", "value": latitude + "|" + longitude})
         driver.add_cookie({"name": "glovo_user_cities", "value": "[%22TIM%22]"})
@@ -30,8 +32,10 @@ class GlovoScraper(FoodScraper):
 
         while(page <= total_pages):
             url = base_url + str(page)
-            driver.delete_all_cookies()
             driver.get(url)
+            driver.delete_cookie("glovo_user_city")
+            driver.delete_cookie("glovo_user_latlng")
+            driver.delete_cookie("glovo_user_cities")
             driver.add_cookie({"name": "glovo_user_city", "value": "TIM"})
             driver.add_cookie({"name": "glovo_user_latlng", "value": latitude + "|" + longitude})
             driver.add_cookie({"name": "glovo_user_cities", "value": "[%22TIM%22]"})
