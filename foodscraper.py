@@ -10,7 +10,7 @@ class FoodScraper:
     def update(self): #get_prices(oras) --> nume restaurant si pret (tuplu)
         pass
 
-    def scrape(self) -> dict:
+    def scrape(self, arg) -> dict:
         pass
 
 

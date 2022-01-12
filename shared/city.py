@@ -3,3 +3,7 @@ class City:
         self.name = name
         self.longitude = longitude
         self.latitude = latitude
+        self.restaurants_tazz = {}
+        self.restaurants_foodpanda = {}
+        self.restaurants = {}
+

@@ -1,0 +1,9449 @@
+{
+    "name": "Bucuresti",
+    "restaurants": {
+        "#Aici": [
+            4.99,
+            4.99
+        ],
+        "#Gustos Carol I": [
+            -1,
+            3.99
+        ],
+        "#Gustos Mosilor": [
+            -1,
+            6.99
+        ],
+        "#Gustos Tineretului": [
+            -1,
+            6.99
+        ],
+        "#ceaun": [
+            4.99,
+            -1
+        ],
+        ".calif Auchan Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        ".calif Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        ".calif Marasesti": [
+            4.99,
+            -1
+        ],
+        ".calif Piata Iancului": [
+            4.99,
+            -1
+        ],
+        ".calif Selari": [
+            4.99,
+            -1
+        ],
+        ".calif Vitan": [
+            4.99,
+            -1
+        ],
+        ".calif-America House Victoriei": [
+            4.99,
+            -1
+        ],
+        "1 Minute Universitate": [
+            -1,
+            3.99
+        ],
+        "10 Meniuri Romanesti": [
+            4.99,
+            -1
+        ],
+        "13 - Specialty Coffee & More": [
+            4.99,
+            -1
+        ],
+        "15A Bistro": [
+            4.99,
+            -1
+        ],
+        "206 de Povestea Florilor": [
+            -1,
+            6.99
+        ],
+        "21 Pub Innovator": [
+            4.99,
+            -1
+        ],
+        "23h Events Delivery": [
+            0.0,
+            -1
+        ],
+        "2Chefs": [
+            4.99,
+            -1
+        ],
+        "33 Pizza": [
+            4.99,
+            -1
+        ],
+        "3F Apaca": [
+            4.99,
+            -1
+        ],
+        "3F Mega Mall": [
+            4.99,
+            -1
+        ],
+        "5 Elemente": [
+            4.99,
+            -1
+        ],
+        "5ensi": [
+            4.99,
+            -1
+        ],
+        "7 O`CLOCK": [
+            4.99,
+            -1
+        ],
+        "7 Vicii": [
+            4.99,
+            -1
+        ],
+        "7 Vicii - Chicken Edition": [
+            4.99,
+            -1
+        ],
+        "7 o'clock Fastfood": [
+            -1,
+            6.99
+        ],
+        "71th street delivery foodstation": [
+            4.99,
+            -1
+        ],
+        "7food": [
+            14.99,
+            -1
+        ],
+        "7food Delivery": [
+            4.99,
+            -1
+        ],
+        "ABite": [
+            4.99,
+            -1
+        ],
+        "AH Pizza": [
+            4.99,
+            -1
+        ],
+        "AL`CEVA": [
+            4.99,
+            -1
+        ],
+        "AMAVI GARDEN": [
+            4.99,
+            -1
+        ],
+        "ANATOLIAN TURKISH CATERING & EVENTS\u00ae": [
+            -1,
+            4.99
+        ],
+        "A`luat Pizza": [
+            4.99,
+            -1
+        ],
+        "Abbraccio": [
+            4.99,
+            -1
+        ],
+        "Acapulco Garden": [
+            4.99,
+            -1
+        ],
+        "Affordabowls Matache": [
+            4.99,
+            -1
+        ],
+        "Agio Bistrot": [
+            4.99,
+            6.99
+        ],
+        "Ahmad Cuisine": [
+            4.99,
+            -1
+        ],
+        "Ahmad Cuisine Delivery": [
+            0.0,
+            -1
+        ],
+        "Ahmad Oriental Sweets": [
+            4.99,
+            -1
+        ],
+        "Ai Sushi Bar": [
+            4.99,
+            -1
+        ],
+        "Al Emir Shaorma": [
+            4.99,
+            -1
+        ],
+        "Al-Taib Food": [
+            4.99,
+            -1
+        ],
+        "Al-Taib Grill": [
+            5.0,
+            -1
+        ],
+        "Al-Taib Kebab": [
+            4.99,
+            -1
+        ],
+        "Aladin Pizza Pasta and Grill": [
+            4.99,
+            -1
+        ],
+        "Aladin Restaurant": [
+            4.99,
+            -1
+        ],
+        "Albert`s Place": [
+            4.99,
+            -1
+        ],
+        "Alexia Garden": [
+            4.99,
+            -1
+        ],
+        "Alexia Garden Residence": [
+            4.99,
+            -1
+        ],
+        "Ali Potol Shaworma": [
+            3.99,
+            -1
+        ],
+        "AlimenteAcasa": [
+            9.99,
+            -1
+        ],
+        "Alina`s Cookery Grill": [
+            4.99,
+            -1
+        ],
+        "Alla Napoli": [
+            4.99,
+            -1
+        ],
+        "Allucinante": [
+            4.99,
+            -1
+        ],
+        "Almondo Pizza Militari": [
+            3.99,
+            -1
+        ],
+        "Almondo Pizza Titan": [
+            3.99,
+            -1
+        ],
+        "Alouette Asmita Gardens": [
+            4.99,
+            -1
+        ],
+        "Alouette Piata Unirii": [
+            4.99,
+            -1
+        ],
+        "Alouette Unirii": [
+            -1,
+            2.99
+        ],
+        "Alt Shift": [
+            4.99,
+            -1
+        ],
+        "Aluat 1 Decembrie": [
+            4.99,
+            -1
+        ],
+        "Alyatter": [
+            4.99,
+            -1
+        ],
+        "Amarillo Restaurant": [
+            4.99,
+            -1
+        ],
+        "Amazonian Burger": [
+            4.99,
+            -1
+        ],
+        "Ambery Home": [
+            4.99,
+            -1
+        ],
+        "American BBQ Apaca": [
+            4.99,
+            -1
+        ],
+        "American BBQ Sperantei": [
+            4.99,
+            -1
+        ],
+        "American Barbeque Matache": [
+            4.99,
+            -1
+        ],
+        "American Barbeque Vitan": [
+            4.99,
+            -1
+        ],
+        "American Burger": [
+            4.99,
+            -1
+        ],
+        "Amethyst 12 Floor SkyBar": [
+            4.99,
+            4.99
+        ],
+        "Amintiri din Copilarie": [
+            4.99,
+            -1
+        ],
+        "Amoom": [
+            4.99,
+            -1
+        ],
+        "Ana Baking Co Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Ana Baking Co Plaza": [
+            4.99,
+            -1
+        ],
+        "Ana Baking Co Vitan": [
+            4.99,
+            6.99
+        ],
+        "Ana Pan 13 Septembrie": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Baneasa": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Beller": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Coposu": [
+            4.99,
+            3.99
+        ],
+        "Ana Pan Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Izvor": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Militari": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Stirbei Voda": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Titulescu": [
+            4.99,
+            -1
+        ],
+        "Ana Pan Traian": [
+            4.99,
+            -1
+        ],
+        "Anas Grill & Macelarie": [
+            4.99,
+            -1
+        ],
+        "Anelyse Gelato Artigianale": [
+            4.99,
+            -1
+        ],
+        "Angeline Cake Boutique": [
+            4.99,
+            -1
+        ],
+        "Angelo Grasso da Giovanni": [
+            4.99,
+            3.99
+        ],
+        "Angy Catering": [
+            4.99,
+            -1
+        ],
+        "Anika Rib Shack": [
+            4.99,
+            -1
+        ],
+        "Antica Pizza Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Antony Pizza": [
+            4.99,
+            -1
+        ],
+        "Aperitivo Bar Otopeni": [
+            4.99,
+            -1
+        ],
+        "Aperitivo Bar Tunari": [
+            4.99,
+            -1
+        ],
+        "ApetEat": [
+            4.99,
+            -1
+        ],
+        "Apusului Kebab": [
+            4.99,
+            -1
+        ],
+        "Aqua Lounge": [
+            4.99,
+            -1
+        ],
+        "Arabesk": [
+            4.99,
+            -1
+        ],
+        "Arabesk Colentina": [
+            4.99,
+            -1
+        ],
+        "Arc Bakery": [
+            4.99,
+            -1
+        ],
+        "Arcade Cafe": [
+            4.99,
+            3.99
+        ],
+        "Arena Nationala by Legumele Bunicii": [
+            4.99,
+            -1
+        ],
+        "Arepas Colombianas": [
+            4.99,
+            -1
+        ],
+        "Aria Burger": [
+            -1,
+            3.99
+        ],
+        "Aria Burger Delivery": [
+            -1,
+            3.99
+        ],
+        "Aria Gourmet Burger - Grivitei": [
+            4.99,
+            -1
+        ],
+        "Aria Gourmet Burger - Universitate": [
+            4.99,
+            -1
+        ],
+        "Arlecchino": [
+            4.99,
+            -1
+        ],
+        "Arogant Restaurant&Lounge": [
+            -1,
+            10.0
+        ],
+        "Arogant lounge": [
+            0.0,
+            -1
+        ],
+        "Aroma Empire Coffee": [
+            4.99,
+            -1
+        ],
+        "Aroma Pizza": [
+            4.99,
+            -1
+        ],
+        "Aroma by Chef Paul": [
+            4.99,
+            -1
+        ],
+        "Arome": [
+            4.99,
+            6.99
+        ],
+        "Arrosticini": [
+            4.99,
+            -1
+        ],
+        "Art Cafe": [
+            4.99,
+            3.99
+        ],
+        "Art Cakes": [
+            4.99,
+            -1
+        ],
+        "Artemis Mediterranean Restaurant": [
+            4.99,
+            -1
+        ],
+        "Artizanii Berii": [
+            4.99,
+            -1
+        ],
+        "Asia`n FOOD": [
+            4.99,
+            -1
+        ],
+        "Assaggio": [
+            4.99,
+            -1
+        ],
+        "Asta Basta Fresca Pasta": [
+            -1,
+            6.99
+        ],
+        "Atelier Chef Silviu Nedelea": [
+            4.99,
+            -1
+        ],
+        "Atelierul de Tarte-Foisor": [
+            4.99,
+            -1
+        ],
+        "Atelierul de burgeri": [
+            0.0,
+            -1
+        ],
+        "Atelierul de tarte-Apaca": [
+            4.99,
+            -1
+        ],
+        "Atelierul de tarte-Mihalache": [
+            4.99,
+            -1
+        ],
+        "Atesbaz Kebap": [
+            4.99,
+            -1
+        ],
+        "Athos Pizza & Bistro": [
+            0.0,
+            0.0
+        ],
+        "Athos Pizza & Bistro Non-Stop": [
+            -1,
+            0.0
+        ],
+        "Athos pizza & Bistro delivery": [
+            0.0,
+            -1
+        ],
+        "Aubergine": [
+            4.99,
+            -1
+        ],
+        "Aubergine 8": [
+            4.99,
+            -1
+        ],
+        "Autentic Burger": [
+            4.99,
+            -1
+        ],
+        "Autentic Kebab": [
+            4.99,
+            -1
+        ],
+        "Autoservire Amzei": [
+            -1,
+            6.99
+        ],
+        "Autoservire Camarad": [
+            4.99,
+            -1
+        ],
+        "Autoservire Expres": [
+            -1,
+            5.99
+        ],
+        "Autoservire La Cotollino": [
+            4.99,
+            -1
+        ],
+        "Autoservire Sara Food": [
+            4.99,
+            -1
+        ],
+        "Autoservire Sara Food delivery": [
+            4.99,
+            -1
+        ],
+        "Autoservirea Oby": [
+            4.99,
+            -1
+        ],
+        "Ava Bistro": [
+            4.99,
+            -1
+        ],
+        "Ava Grill": [
+            4.99,
+            -1
+        ],
+        "Avraham Kosher": [
+            0.0,
+            3.99
+        ],
+        "Azzurro": [
+            4.99,
+            -1
+        ],
+        "B Back Lebanese Food": [
+            5.0,
+            -1
+        ],
+        "B3ton Restobar": [
+            4.99,
+            6.99
+        ],
+        "B3ton Restobar Floreasca": [
+            4.99,
+            -1
+        ],
+        "B3ton Restobar Militari": [
+            4.99,
+            -1
+        ],
+        "BABA from Beirut": [
+            4.99,
+            -1
+        ],
+        "Babanowaqe": [
+            4.99,
+            -1
+        ],
+        "Babylon FastFood": [
+            4.99,
+            -1
+        ],
+        "Bacania Companion": [
+            4.99,
+            -1
+        ],
+        "Bacania Companion Jiului": [
+            4.99,
+            -1
+        ],
+        "Bacania Vacaresti": [
+            4.99,
+            -1
+        ],
+        "Bacania Veche": [
+            4.99,
+            -1
+        ],
+        "Baffi Cafe": [
+            4.99,
+            -1
+        ],
+        "Balkon Resto Garden": [
+            -1,
+            6.99
+        ],
+        "Balls": [
+            4.99,
+            -1
+        ],
+        "Balls Apaca": [
+            4.99,
+            -1
+        ],
+        "Banjo Jack": [
+            -1,
+            6.99
+        ],
+        "BarBQ": [
+            0.0,
+            -1
+        ],
+        "Barbizon Steak House": [
+            4.99,
+            -1
+        ],
+        "Basil Restaurant Pizzerie & More": [
+            4.99,
+            -1
+        ],
+        "Bavs Urban Food & Bar": [
+            4.99,
+            -1
+        ],
+        "Baz Bistro & Burgers - Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "Baz Bistro & Burgers - Unirii": [
+            4.99,
+            -1
+        ],
+        "Bcheese": [
+            4.99,
+            5.99
+        ],
+        "Beautyfood": [
+            4.99,
+            -1
+        ],
+        "Beca's Kitchen": [
+            -1,
+            6.99
+        ],
+        "Beca`s Kitchen": [
+            4.99,
+            -1
+        ],
+        "Beef Bar by Casa Angus": [
+            4.99,
+            4.99
+        ],
+        "Beef Burgers": [
+            -1,
+            3.99
+        ],
+        "Beijing Garden": [
+            4.99,
+            -1
+        ],
+        "Bella Italia Express Auchan Crangasi": [
+            4.99,
+            -1
+        ],
+        "Bella Italia Express Corbeanca": [
+            4.99,
+            -1
+        ],
+        "Bella Italia Express Sebastian": [
+            4.99,
+            -1
+        ],
+        "Bella Italia Express Tudor Vladimirescu": [
+            4.99,
+            -1
+        ],
+        "Bella Napoli": [
+            4.99,
+            -1
+        ],
+        "Belli Siciliani": [
+            4.99,
+            -1
+        ],
+        "Bendis Cafe": [
+            4.99,
+            -1
+        ],
+        "Beraria Centrala": [
+            4.99,
+            5.99
+        ],
+        "Beraria H": [
+            4.99,
+            -1
+        ],
+        "Beraria Nenea Iancu": [
+            -1,
+            3.99
+        ],
+        "Beraria Park": [
+            4.99,
+            -1
+        ],
+        "Berestroika": [
+            4.99,
+            -1
+        ],
+        "Berezka Russian Food Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Berezka Russian Food Unirii": [
+            4.99,
+            -1
+        ],
+        "Berliner Donut Studio": [
+            4.99,
+            -1
+        ],
+        "Best Kebab": [
+            4.99,
+            -1
+        ],
+        "Biblioteca Delivery": [
+            4.99,
+            -1
+        ],
+        "Bibo Burgers": [
+            4.99,
+            -1
+        ],
+        "Bibo Burgers - Corbeanca": [
+            0.0,
+            -1
+        ],
+        "Bierhaus 67": [
+            4.99,
+            -1
+        ],
+        "Big Boy": [
+            4.99,
+            -1
+        ],
+        "Bistro 37-39": [
+            4.99,
+            -1
+        ],
+        "Bistro 61": [
+            7.99,
+            -1
+        ],
+        "Bistro Dek": [
+            4.99,
+            -1
+        ],
+        "Bistro Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Bistro Fabrica de Bere": [
+            4.99,
+            -1
+        ],
+        "Bistro Plenty": [
+            -1,
+            6.99
+        ],
+        "Bistro fresh express": [
+            4.99,
+            -1
+        ],
+        "Bistromar": [
+            4.99,
+            -1
+        ],
+        "Bistropolitan": [
+            -1,
+            4.99
+        ],
+        "Biutiful By The Lake": [
+            4.99,
+            -1
+        ],
+        "Biutiful Downtown": [
+            -1,
+            6.99
+        ],
+        "Biutiful Floreasca": [
+            4.99,
+            -1
+        ],
+        "Black Burgers": [
+            4.99,
+            -1
+        ],
+        "Black by DonCafe": [
+            4.99,
+            -1
+        ],
+        "Blat Pizza": [
+            4.99,
+            -1
+        ],
+        "Boboko by KAIAMO": [
+            4.99,
+            -1
+        ],
+        "Bocca Lupo": [
+            4.99,
+            -1
+        ],
+        "Bodega La Mahala": [
+            4.99,
+            3.99
+        ],
+        "Bodrum Turkish Kitchen": [
+            4.99,
+            -1
+        ],
+        "Bolt Pizza Domnesti": [
+            5.0,
+            -1
+        ],
+        "Bolt Pizza Libertatii": [
+            4.0,
+            -1
+        ],
+        "Bolta Rece": [
+            4.99,
+            -1
+        ],
+        "Bomb Doner Kebab": [
+            4.99,
+            -1
+        ],
+        "Bomb Doner Kebap": [
+            -1,
+            6.99
+        ],
+        "Bomba Burger": [
+            4.99,
+            -1
+        ],
+        "Boon by La Seratta": [
+            0.0,
+            -1
+        ],
+        "Bora Bora": [
+            4.99,
+            3.99
+        ],
+        "Bora Bora Restaurant": [
+            -1,
+            3.99
+        ],
+        "Bordo Caffe & Pub": [
+            4.99,
+            -1
+        ],
+        "Borsalino": [
+            0.0,
+            0.0
+        ],
+        "Bosfor Taverna": [
+            4.99,
+            -1
+        ],
+        "Boss Mini Burgers Afi": [
+            4.99,
+            -1
+        ],
+        "Boss Mini Burgers Amzei": [
+            4.99,
+            6.99
+        ],
+        "Boss Mini Burgers Mall Baneasa": [
+            4.99,
+            -1
+        ],
+        "Boss Mini Burgers Mega mall": [
+            4.99,
+            -1
+        ],
+        "Botanic Restaurant": [
+            4.99,
+            -1
+        ],
+        "Boutique Fruits": [
+            -1,
+            6.99
+        ],
+        "Boutique du Pain": [
+            4.99,
+            4.99
+        ],
+        "Boutique du Pain 1": [
+            -1,
+            4.99
+        ],
+        "Boutique du pain 2": [
+            4.99,
+            -1
+        ],
+        "Bowls": [
+            4.99,
+            -1
+        ],
+        "Bradu Mania Berceni": [
+            0.0,
+            -1
+        ],
+        "Braseria 81": [
+            5.0,
+            -1
+        ],
+        "Braserie Hambar": [
+            4.99,
+            -1
+        ],
+        "Brasserie 41": [
+            4.99,
+            -1
+        ],
+        "Bread Is life by koksal": [
+            4.99,
+            -1
+        ],
+        "Bread is life shaorma": [
+            4.99,
+            6.99
+        ],
+        "Bread&Spices": [
+            4.99,
+            -1
+        ],
+        "Bro Delivery": [
+            4.99,
+            10.0
+        ],
+        "Bro delivery Rahova": [
+            5.0,
+            -1
+        ],
+        "Brooklyn Burger": [
+            -1,
+            5.99
+        ],
+        "Brothers Burgers & More Delivery Vitan": [
+            -1,
+            0.0
+        ],
+        "Brothers Burgers Delivery": [
+            5.0,
+            -1
+        ],
+        "Brothers Burgers Vitan": [
+            4.99,
+            -1
+        ],
+        "Brothers Burgers Vitan delivery": [
+            0.0,
+            -1
+        ],
+        "Brutal Russian Pancakes": [
+            4.99,
+            -1
+        ],
+        "Brutaria cu Maia": [
+            4.99,
+            -1
+        ],
+        "Bryo Appetite": [
+            4.99,
+            6.99
+        ],
+        "Bryo Appetite Floreasca": [
+            4.99,
+            -1
+        ],
+        "Bryo Appetite Militari": [
+            4.99,
+            -1
+        ],
+        "Bubble Waffles Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Bucatarasul cel Dibaci": [
+            0.0,
+            3.99
+        ],
+        "Bucataria Bunicii": [
+            7.99,
+            -1
+        ],
+        "Bucataria Lu' Peste": [
+            -1,
+            5.99
+        ],
+        "Bucataria lu` Peste": [
+            4.99,
+            -1
+        ],
+        "Bucataria lu\u2019 Mizi": [
+            4.99,
+            -1
+        ],
+        "Bucatarie cu gust": [
+            4.99,
+            -1
+        ],
+        "Bucate Alese": [
+            4.99,
+            -1
+        ],
+        "Bucate Alese delivery": [
+            7.99,
+            -1
+        ],
+        "Buddies Caffee": [
+            4.99,
+            -1
+        ],
+        "Buddies Food": [
+            4.99,
+            -1
+        ],
+        "Buffy's Hotdog": [
+            -1,
+            3.99
+        ],
+        "Buffy`s Hot Dog": [
+            4.99,
+            -1
+        ],
+        "Bun Bun Catering": [
+            0.0,
+            -1
+        ],
+        "Bunatati vegane si de post": [
+            4.99,
+            -1
+        ],
+        "Buns Burger & Wings Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Buns Wings": [
+            4.99,
+            -1
+        ],
+        "Buon Panino Traian": [
+            -1,
+            5.0
+        ],
+        "Buon e Gusto": [
+            4.99,
+            -1
+        ],
+        "Burebista Traditional": [
+            -1,
+            4.99
+        ],
+        "Burgatore": [
+            4.99,
+            -1
+        ],
+        "Burger & Burrito by Appetit": [
+            4.99,
+            -1
+        ],
+        "Burger & Pasta Planet": [
+            0.0,
+            -1
+        ],
+        "Burger & Pasta Planet Drumul Taberei": [
+            0.0,
+            -1
+        ],
+        "Burger & Pasta Planet Giurgiului": [
+            0.0,
+            -1
+        ],
+        "Burger God": [
+            5.0,
+            -1
+        ],
+        "Burger House": [
+            4.99,
+            -1
+        ],
+        "Burger Housz": [
+            4.99,
+            -1
+        ],
+        "Burger Hub A. I. Cuza": [
+            4.99,
+            -1
+        ],
+        "Burger Hub Otopeni": [
+            4.99,
+            -1
+        ],
+        "Burger Island": [
+            4.99,
+            -1
+        ],
+        "Burger King Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Burger King Universitate": [
+            -1,
+            3.99
+        ],
+        "Burger Peter": [
+            4.99,
+            6.99
+        ],
+        "Burger Peter Moinesti": [
+            4.99,
+            -1
+        ],
+        "Burger Point (Petrolului)": [
+            5.0,
+            -1
+        ],
+        "Burger Point Ilioara": [
+            5.0,
+            -1
+        ],
+        "Burger Show Domenii": [
+            4.99,
+            -1
+        ],
+        "Burger Station by Baz Masterchef- Pipera": [
+            4.99,
+            -1
+        ],
+        "Burger Story": [
+            4.99,
+            -1
+        ],
+        "Burger Story - Libertatii": [
+            4.99,
+            -1
+        ],
+        "Burger Story - Pipera": [
+            4.99,
+            -1
+        ],
+        "Burger Story - Pipera Delivery": [
+            4.99,
+            -1
+        ],
+        "Burger Teilor": [
+            4.99,
+            -1
+        ],
+        "Burger Van Apaca": [
+            4.99,
+            -1
+        ],
+        "Burger Van Berceni": [
+            4.99,
+            -1
+        ],
+        "Burger Van Bistro": [
+            4.99,
+            4.99
+        ],
+        "Burger Van Home": [
+            4.99,
+            3.99
+        ],
+        "Burger Van Mercato Kultur": [
+            4.99,
+            -1
+        ],
+        "Burger Van Vitan": [
+            4.99,
+            -1
+        ],
+        "Burger la Habib": [
+            4.99,
+            -1
+        ],
+        "Burger@fries": [
+            4.99,
+            -1
+        ],
+        "Burgerati": [
+            4.99,
+            -1
+        ],
+        "Burgerescu": [
+            4.99,
+            6.99
+        ],
+        "Burgerescu Vitan": [
+            -1,
+            6.99
+        ],
+        "Burgeri si paste pe gustul tau": [
+            4.99,
+            -1
+        ],
+        "Burgeria Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Burgeria Golden Blitz": [
+            4.99,
+            -1
+        ],
+        "Burgeria House": [
+            4.99,
+            -1
+        ],
+        "Burgeria Stirbei": [
+            4.99,
+            -1
+        ],
+        "Burgers by Caffeera": [
+            4.99,
+            -1
+        ],
+        "Burgers&Grill": [
+            4.99,
+            -1
+        ],
+        "Burgr Factory": [
+            4.99,
+            6.99
+        ],
+        "Burgr Factory Iuliu Maniu": [
+            4.99,
+            -1
+        ],
+        "Burgr factory Dacia": [
+            4.99,
+            -1
+        ],
+        "Business Land Restaurant": [
+            -1,
+            7.0
+        ],
+        "Bustin\u2019 Bowls Berceni": [
+            4.99,
+            -1
+        ],
+        "Butoiul cu inghetata": [
+            4.99,
+            -1
+        ],
+        "CAJU by Joseph Hadad": [
+            4.99,
+            5.99
+        ],
+        "CANNOLERIA DESERT - Decebal": [
+            -1,
+            6.99
+        ],
+        "CAVA Bistronomie": [
+            4.99,
+            -1
+        ],
+        "CIAO International": [
+            4.99,
+            -1
+        ],
+        "CIAO Traditional": [
+            4.99,
+            -1
+        ],
+        "Cafea cu Laptic": [
+            4.99,
+            -1
+        ],
+        "Cafea si clatite": [
+            -1,
+            6.99
+        ],
+        "Cafea \u0219i cl\u0103tite": [
+            4.99,
+            -1
+        ],
+        "Cafetaria Specialty Shop Gara de nord": [
+            4.99,
+            -1
+        ],
+        "Cafetaria Specialty Shop Sebastian": [
+            4.99,
+            -1
+        ],
+        "Cafetaria Specialty Shop Timpuri noi": [
+            4.99,
+            -1
+        ],
+        "Caffeera": [
+            4.99,
+            4.99
+        ],
+        "Cake & Roll Arena Mall": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Bragadiru": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Colentina": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Mihai Bravu": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Titan": [
+            4.99,
+            -1
+        ],
+        "Cake & Roll Vulcan": [
+            4.99,
+            -1
+        ],
+        "Cake Lab by ESS": [
+            4.99,
+            -1
+        ],
+        "Camarad Fast": [
+            4.99,
+            -1
+        ],
+        "Camionetta Pizzeria Baneasa": [
+            4.99,
+            -1
+        ],
+        "Camionetta Pizzeria Timpuri Noi": [
+            4.99,
+            -1
+        ],
+        "Camizo": [
+            9.0,
+            -1
+        ],
+        "Cantina Dima's": [
+            -1,
+            6.99
+        ],
+        "Cantina Faur": [
+            4.99,
+            -1
+        ],
+        "Cantina de la Muzica": [
+            4.99,
+            6.99
+        ],
+        "Cantine 2-Pipera": [
+            4.99,
+            -1
+        ],
+        "Capri Pizza": [
+            4.99,
+            -1
+        ],
+        "Capricciosa": [
+            4.99,
+            -1
+        ],
+        "Captain Bean": [
+            4.99,
+            -1
+        ],
+        "Captain Bean Basarab": [
+            4.99,
+            -1
+        ],
+        "Caramel": [
+            4.99,
+            -1
+        ],
+        "Carbon14 BistroCafe": [
+            4.99,
+            4.99
+        ],
+        "Carbon14 Food": [
+            4.99,
+            -1
+        ],
+        "Carcalete by Yolk Herestrau": [
+            4.99,
+            -1
+        ],
+        "Carcalete by Yolk Universitate": [
+            4.99,
+            -1
+        ],
+        "Carina`s Sweets": [
+            4.99,
+            -1
+        ],
+        "Carmangeria Tyca": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Baneasa": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Bratianu": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Gara de Nord": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Park Lake": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie - Vitan": [
+            4.99,
+            -1
+        ],
+        "Cartofisserie Apaca": [
+            4.99,
+            -1
+        ],
+        "Caru` cu Bere": [
+            4.99,
+            -1
+        ],
+        "Casa Bachus": [
+            4.99,
+            -1
+        ],
+        "Casa Dantelei": [
+            4.99,
+            -1
+        ],
+        "Casa Denis": [
+            4.99,
+            -1
+        ],
+        "Casa Diham": [
+            4.99,
+            -1
+        ],
+        "Casa Diham - Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Casa Dragonului": [
+            -1,
+            6.99
+        ],
+        "Casa Lazar": [
+            4.99,
+            -1
+        ],
+        "Casa Luica": [
+            4.99,
+            -1
+        ],
+        "Casa Nasului": [
+            4.99,
+            -1
+        ],
+        "Casa Rivoli": [
+            4.99,
+            0.0
+        ],
+        "Casa Traditiei Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Casa de Tacos": [
+            4.99,
+            3.99
+        ],
+        "Casa di David": [
+            4.99,
+            -1
+        ],
+        "Cascara Coffee Shop Victoriei": [
+            -1,
+            6.99
+        ],
+        "Castronul Gustos": [
+            4.99,
+            -1
+        ],
+        "Ceaunul Bunicii": [
+            4.99,
+            -1
+        ],
+        "Cent'anni Ristorante": [
+            -1,
+            6.99
+        ],
+        "Cereal Crunch - Natiunile Unite": [
+            -1,
+            4.99
+        ],
+        "Cetatea din Alep": [
+            4.99,
+            -1
+        ],
+        "Chanh Miam Miam": [
+            5.0,
+            -1
+        ],
+        "Chapli Traian": [
+            -1,
+            5.0
+        ],
+        "CharcuterieBoard": [
+            4.99,
+            -1
+        ],
+        "Chat Noir": [
+            -1,
+            4.99
+        ],
+        "Check In Lounge": [
+            4.99,
+            -1
+        ],
+        "Chef Gabrielle": [
+            4.99,
+            -1
+        ],
+        "Chef Gabrielle Delivery": [
+            7.5,
+            -1
+        ],
+        "ChefBox": [
+            4.99,
+            -1
+        ],
+        "Chefs Evolution": [
+            4.99,
+            -1
+        ],
+        "Cherhanaua Ancora": [
+            4.99,
+            -1
+        ],
+        "Chez Toni": [
+            4.99,
+            6.99
+        ],
+        "Chiajna Catering": [
+            4.99,
+            -1
+        ],
+        "Chicken Bens": [
+            4.99,
+            -1
+        ],
+        "Chicken Deea": [
+            4.99,
+            -1
+        ],
+        "Chicken Staff": [
+            4.99,
+            -1
+        ],
+        "Chicken grill": [
+            4.99,
+            -1
+        ],
+        "Chiftelarie Dorobantilor": [
+            4.99,
+            -1
+        ],
+        "Chimney Cake Factory": [
+            4.99,
+            -1
+        ],
+        "China Box Militari": [
+            3.99,
+            -1
+        ],
+        "China Box Titan": [
+            3.99,
+            -1
+        ],
+        "Chinese Garden": [
+            4.99,
+            5.0
+        ],
+        "Chinese Garden Bucuresti": [
+            -1,
+            5.0
+        ],
+        "Chococake Boutique": [
+            4.99,
+            -1
+        ],
+        "Chocoloco": [
+            4.99,
+            3.99
+        ],
+        "Chocoloco Universitate": [
+            4.99,
+            3.99
+        ],
+        "Chopstix Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Chopstix Plaza": [
+            4.99,
+            -1
+        ],
+        "Chopstix Promenada": [
+            4.99,
+            -1
+        ],
+        "Chopstix Ready to Box AFI Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Chopstix Ready to Box Feeria": [
+            4.99,
+            -1
+        ],
+        "Chopstix Ready to Box Orhideea": [
+            4.99,
+            -1
+        ],
+        "Chopstix Ready to Box Park Lake": [
+            4.99,
+            -1
+        ],
+        "Chopstix Ready to Box Unirii": [
+            4.99,
+            -1
+        ],
+        "Chopstix Unirea": [
+            -1,
+            3.99
+        ],
+        "Chopstix Vitan": [
+            4.99,
+            -1
+        ],
+        "Chou_ette": [
+            4.99,
+            -1
+        ],
+        "Ciao Bella Forever": [
+            4.99,
+            -1
+        ],
+        "Ciao Napoli": [
+            4.99,
+            3.99
+        ],
+        "Ciao Napoli Al. Ioan Cuza": [
+            4.99,
+            -1
+        ],
+        "Ciao Napoli Militari": [
+            4.99,
+            -1
+        ],
+        "Ciao Trattoria": [
+            4.99,
+            -1
+        ],
+        "Cibo E Vino Delivery": [
+            -1,
+            6.99
+        ],
+        "Cibo e Vino": [
+            4.99,
+            6.99
+        ],
+        "Ciolanarie Matache": [
+            4.99,
+            -1
+        ],
+        "Ciorbaria lui Antonio Delivery": [
+            -1,
+            0.0
+        ],
+        "Ciorbe ca la Bunica": [
+            4.99,
+            -1
+        ],
+        "Ciorbe de 10": [
+            4.99,
+            -1
+        ],
+        "Ciorbe si Placinte": [
+            4.99,
+            6.99
+        ],
+        "Ciorbe si Placinte Lanariei": [
+            4.99,
+            -1
+        ],
+        "Ciorbe si Placinte Mosilor": [
+            4.99,
+            6.99
+        ],
+        "Ciorbe si Placinte/Burgers UNO": [
+            -1,
+            4.99
+        ],
+        "Ciorbe si placinte Carol": [
+            4.99,
+            3.99
+        ],
+        "Ciorbe si placinte Carol I": [
+            -1,
+            3.99
+        ],
+        "Ciorbe si placinte Iancu de Hunedoara": [
+            4.99,
+            -1
+        ],
+        "Ciorbe si placinte Tineretului": [
+            -1,
+            6.99
+        ],
+        "Ciorbe si placinte Victoriei": [
+            4.99,
+            -1
+        ],
+        "Ciorbe to go": [
+            4.99,
+            -1
+        ],
+        "Ciorbele Ditei": [
+            4.99,
+            -1
+        ],
+        "Ciorbele lui Dragomir": [
+            4.99,
+            -1
+        ],
+        "Ciorbele lu\u2019 Coana Mare Covaci": [
+            -1,
+            3.99
+        ],
+        "Ciorbita": [
+            4.99,
+            -1
+        ],
+        "Circus Doner": [
+            4.99,
+            -1
+        ],
+        "Circus Pub": [
+            4.99,
+            -1
+        ],
+        "City Gourmet": [
+            -1,
+            6.99
+        ],
+        "ClatEATarie Centrul vechi": [
+            -1,
+            3.99
+        ],
+        "Clatitaria": [
+            0.0,
+            -1
+        ],
+        "Club Expirat": [
+            4.99,
+            -1
+        ],
+        "Club Fabrica": [
+            4.99,
+            6.99
+        ],
+        "Coclinta Brasserie": [
+            4.99,
+            -1
+        ],
+        "Coco & The Nuts": [
+            4.99,
+            -1
+        ],
+        "Coco Urban Kitchen": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Alison": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Altfel": [
+            0.0,
+            -1
+        ],
+        "Cofetaria Calin": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Casandra": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Constance Dna. Ghica": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Constance Dr. Felix": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Baicului": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Colentina": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Dristor": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Giurgiului": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Herastrau": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Georgy`s Mosilor": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Marenka Liviu Rebreanu": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Marenka Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Marenka Trapezului": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Maria": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Paradis Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Paradis Salajan": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Sara": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Zora": [
+            4.99,
+            -1
+        ],
+        "Cofetaria Zora Voluntari": [
+            4.99,
+            -1
+        ],
+        "Coffee Print": [
+            4.99,
+            -1
+        ],
+        "Coffee Shop & Burger": [
+            4.99,
+            -1
+        ],
+        "Coftale Specialty Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "Colosal Fast Food": [
+            4.99,
+            -1
+        ],
+        "Colosseum Universitate": [
+            -1,
+            0.0
+        ],
+        "Coltu` Berarilor": [
+            4.99,
+            -1
+        ],
+        "Coltul Italiei": [
+            4.99,
+            -1
+        ],
+        "Conacul Nobil Decebal": [
+            4.99,
+            6.99
+        ],
+        "Conacul Nobil Pache": [
+            4.99,
+            -1
+        ],
+        "Conacul Romanesc": [
+            4.99,
+            -1
+        ],
+        "Conacul Zeneea": [
+            4.99,
+            5.99
+        ],
+        "Condimental America House Victoriei": [
+            4.99,
+            -1
+        ],
+        "Condimental Auchan Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Condimental Calea Vitan": [
+            4.99,
+            -1
+        ],
+        "Condimental Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Condimental Marasesti": [
+            4.99,
+            4.99
+        ],
+        "Cookies&Friends": [
+            4.99,
+            -1
+        ],
+        "Coolinart": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Amzei": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Baneasa BT": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Eurotower": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Floreasca": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Piata Presei Libere": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU S-Park": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Sema Parc": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Swan": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Universitate": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Upground": [
+            4.99,
+            -1
+        ],
+        "Cooperativa FRUFRU Victoriei": [
+            4.99,
+            -1
+        ],
+        "Cori`s Pizza": [
+            4.99,
+            -1
+        ],
+        "Corner Steakhouse": [
+            4.99,
+            -1
+        ],
+        "Cortado Beans": [
+            4.99,
+            -1
+        ],
+        "Costas Greek Restaurant": [
+            4.99,
+            -1
+        ],
+        "Cozo&co-Bistro Bacanie": [
+            4.99,
+            -1
+        ],
+        "Crama Hanul Hangitei": [
+            4.99,
+            5.0
+        ],
+        "Crama Hanul Hangitei Delivery": [
+            -1,
+            5.0
+        ],
+        "Crama Viisoara": [
+            4.99,
+            -1
+        ],
+        "Crapelnita GastroBar": [
+            4.99,
+            -1
+        ],
+        "Crapelnita Magheru": [
+            4.99,
+            -1
+        ],
+        "Crepes Avenue": [
+            4.99,
+            -1
+        ],
+        "Crepes du monde": [
+            4.99,
+            -1
+        ],
+        "Crispy King": [
+            4.99,
+            -1
+        ],
+        "Cristina Cakes": [
+            4.99,
+            -1
+        ],
+        "Crocant": [
+            4.99,
+            6.99
+        ],
+        "Crocante Pizza": [
+            4.99,
+            -1
+        ],
+        "Cronos Kebap": [
+            -1,
+            6.99
+        ],
+        "Crosto Pizza": [
+            0.0,
+            -1
+        ],
+        "Crosto Pizza Delivery": [
+            0.0,
+            -1
+        ],
+        "Crosto Restaurant": [
+            0.0,
+            -1
+        ],
+        "Crust Artisan Bakery": [
+            4.99,
+            -1
+        ],
+        "Cubano Food Truck": [
+            -1,
+            4.99
+        ],
+        "Cucina Romana": [
+            4.99,
+            -1
+        ],
+        "Cucina di casa": [
+            4.99,
+            -1
+        ],
+        "Cucina di casa delivery": [
+            7.99,
+            -1
+        ],
+        "Culinarium": [
+            4.99,
+            -1
+        ],
+        "Cuptorul Brancovenesc Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Cuptorul Brancovenesc Dristor": [
+            4.99,
+            -1
+        ],
+        "Cuptorul Brancovenesc Orhideea": [
+            4.99,
+            -1
+        ],
+        "Cuptorul cu lemne Pache Protopopescu": [
+            4.99,
+            -1
+        ],
+        "Cuptorul cu lemne Promenada": [
+            4.99,
+            -1
+        ],
+        "Curtea Berarilor": [
+            -1,
+            3.99
+        ],
+        "D20 Bistro": [
+            4.99,
+            -1
+        ],
+        "D20 Bistro de Craciun": [
+            4.99,
+            -1
+        ],
+        "DESCHIS Gastrobar": [
+            4.99,
+            -1
+        ],
+        "DOGU": [
+            4.99,
+            -1
+        ],
+        "DaBeef": [
+            4.99,
+            -1
+        ],
+        "Dabo Doner Apaca": [
+            4.99,
+            -1
+        ],
+        "Dabo Doner Militari": [
+            4.99,
+            -1
+        ],
+        "Damir Burger - Grivitei": [
+            4.99,
+            -1
+        ],
+        "Damir Burger - Universitate": [
+            4.99,
+            -1
+        ],
+        "Danielli Pizzeria - Baneasa": [
+            5.0,
+            -1
+        ],
+        "Danielli Pizzeria - Doroban\u021bi": [
+            5.0,
+            -1
+        ],
+        "David&Roro": [
+            4.99,
+            -1
+        ],
+        "Davidone EXPRESS": [
+            4.99,
+            -1
+        ],
+        "Davidone Pizza Delivery": [
+            -1,
+            4.99
+        ],
+        "De Post & Veggie by Calif America House": [
+            4.99,
+            -1
+        ],
+        "De Post & Veggie by Calif Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "De Post & Veggie by Calif Dr. Taberelor": [
+            4.99,
+            -1
+        ],
+        "De Post & Veggie by Calif Marasesti": [
+            4.99,
+            4.99
+        ],
+        "De Post & Veggie by Calif Piata Iancului": [
+            4.99,
+            -1
+        ],
+        "De Post & Veggie by Calif Selari": [
+            4.99,
+            -1
+        ],
+        "De Post & Veggie by Calif Vitan": [
+            4.99,
+            -1
+        ],
+        "Del Popolo shop": [
+            4.99,
+            -1
+        ],
+        "Delea Noua": [
+            -1,
+            6.99
+        ],
+        "Delice Grill": [
+            4.99,
+            -1
+        ],
+        "Delivery Culinar": [
+            -1,
+            3.99
+        ],
+        "Delizia-BioBio Gelato": [
+            4.99,
+            -1
+        ],
+        "Deltaica": [
+            4.99,
+            -1
+        ],
+        "Derya Doner Kebab": [
+            4.99,
+            -1
+        ],
+        "Di Marco2": [
+            4.99,
+            -1
+        ],
+        "DietLife Food": [
+            4.99,
+            -1
+        ],
+        "Dine\u0219 Truck Food Unirii": [
+            -1,
+            4.99
+        ],
+        "Dinner Food Auchan Berceni": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Auchan Militari": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Auchan Pallady": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Cora Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Pipera Plaza": [
+            4.99,
+            -1
+        ],
+        "Dinner Food Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Distrikt 42": [
+            -1,
+            3.99
+        ],
+        "Distrikt42": [
+            4.99,
+            -1
+        ],
+        "Divan": [
+            4.99,
+            4.99
+        ],
+        "Divan Express": [
+            4.99,
+            -1
+        ],
+        "Di\u2019Vino Pizza & Paste": [
+            0.0,
+            -1
+        ],
+        "Doi tatici": [
+            -1,
+            4.99
+        ],
+        "Dolce Mondo": [
+            4.99,
+            -1
+        ],
+        "Domino's Pizza Unirii": [
+            -1,
+            4.95
+        ],
+        "Dominum Grill&Bar": [
+            4.99,
+            -1
+        ],
+        "Don Ricco": [
+            4.99,
+            -1
+        ],
+        "Doner Kebab Giulesti": [
+            4.99,
+            -1
+        ],
+        "Doner Kebap Darayava": [
+            4.99,
+            -1
+        ],
+        "Doner King": [
+            4.99,
+            -1
+        ],
+        "Donerboom": [
+            4.99,
+            5.0
+        ],
+        "Donerboom 13 Septembrie": [
+            4.99,
+            5.0
+        ],
+        "Donerboom Militari": [
+            4.99,
+            -1
+        ],
+        "Draft Pub": [
+            4.99,
+            -1
+        ],
+        "Dragomir Niculescu": [
+            4.99,
+            -1
+        ],
+        "Dragomir Niculescu Berceni": [
+            9.9,
+            -1
+        ],
+        "Dragomir Niculescu Pipera": [
+            9.9,
+            -1
+        ],
+        "Dream by MGC": [
+            4.99,
+            -1
+        ],
+        "Dreamer`s Pub": [
+            4.99,
+            -1
+        ],
+        "Dristor Doner Kebap Apaca": [
+            4.99,
+            -1
+        ],
+        "Dristor Doner Kebap Budapesta": [
+            4.99,
+            -1
+        ],
+        "Dristor Doner Kebap Mall Vitan": [
+            4.99,
+            -1
+        ],
+        "Dristor Doner Kebap Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Dristor Doner Tineretului": [
+            -1,
+            6.99
+        ],
+        "Dristor Grill Steakhouse": [
+            -1,
+            6.99
+        ],
+        "Dristor Kebap (Camil Ressu)": [
+            -1,
+            6.99
+        ],
+        "Dristor Kebap Camil Ressu": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Delivery - Colentina": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Delivery - Franceza": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Delivery - Sudului": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Delivery - Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Delivery Franceza": [
+            -1,
+            3.99
+        ],
+        "Dristor Kebap Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Dristor Kebap Tantuni": [
+            4.99,
+            -1
+        ],
+        "Dristor Steak House": [
+            4.99,
+            -1
+        ],
+        "Drunken Squid": [
+            4.99,
+            -1
+        ],
+        "Due Food": [
+            4.99,
+            -1
+        ],
+        "Dulce Nana Cake": [
+            4.99,
+            -1
+        ],
+        "Dulcinella Calea Grivitei": [
+            4.99,
+            -1
+        ],
+        "Dulcinella Constantin Brancoveanu": [
+            4.99,
+            -1
+        ],
+        "Dulcinella Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Dum-Dum Food": [
+            4.99,
+            -1
+        ],
+        "Duman": [
+            4.99,
+            6.99
+        ],
+        "Duman Oriental Cuisne": [
+            -1,
+            6.99
+        ],
+        "Duna Restaurant": [
+            4.99,
+            -1
+        ],
+        "Dyno\u2019s Na\u021biunile Unite": [
+            -1,
+            4.99
+        ],
+        "E-YO Burgeri si coaste": [
+            4.99,
+            -1
+        ],
+        "E3 by Entourage": [
+            4.99,
+            -1
+        ],
+        "EBun Grill & Doner": [
+            4.99,
+            -1
+        ],
+        "ECO Sushi": [
+            4.99,
+            3.99
+        ],
+        "EV Don Fusion": [
+            4.99,
+            -1
+        ],
+        "EVO Food": [
+            4.99,
+            -1
+        ],
+        "Eat Etc Hermes": [
+            4.99,
+            -1
+        ],
+        "Edan Kebab": [
+            4.99,
+            -1
+        ],
+        "Edo Sushi": [
+            4.99,
+            12.0
+        ],
+        "Efes Restaurant": [
+            4.99,
+            6.99
+        ],
+        "Eggsmania": [
+            4.99,
+            -1
+        ],
+        "El Bacha": [
+            4.99,
+            6.99
+        ],
+        "El Pato": [
+            4.99,
+            5.99
+        ],
+        "El Patron Kebab": [
+            0.0,
+            -1
+        ],
+        "El Torito": [
+            -1,
+            5.0
+        ],
+        "Elephante Tapas&champagne": [
+            4.99,
+            -1
+        ],
+        "Elfi SkyBar & UrbanKitchen": [
+            4.99,
+            -1
+        ],
+        "Elisabeta Cookery": [
+            4.99,
+            -1
+        ],
+        "Emerald Food": [
+            0.0,
+            -1
+        ],
+        "Emre Baklava Unirii": [
+            -1,
+            3.99
+        ],
+        "Energiea": [
+            4.99,
+            -1
+        ],
+        "Ergo Restaurant": [
+            4.99,
+            4.99
+        ],
+        "Etolia Coffee To Go": [
+            4.99,
+            -1
+        ],
+        "Everest Catering": [
+            4.99,
+            -1
+        ],
+        "Everest Restaurant": [
+            4.99,
+            6.99
+        ],
+        "Express food": [
+            4.99,
+            -1
+        ],
+        "FAYN Floreasca": [
+            4.99,
+            -1
+        ],
+        "FAYN Victoriei": [
+            4.99,
+            -1
+        ],
+        "FOODBAY-ZOOMSERIE": [
+            4.99,
+            -1
+        ],
+        "FRIENDS PUB": [
+            4.99,
+            -1
+        ],
+        "FULL KEBAB Berceni": [
+            4.99,
+            -1
+        ],
+        "Fabio Pizza Traian": [
+            -1,
+            0.0
+        ],
+        "Fabio pizza- Covasna": [
+            0.0,
+            -1
+        ],
+        "Fabio pizza- Delfinului": [
+            0.0,
+            -1
+        ],
+        "Fabio pizza- Opanez": [
+            0.0,
+            -1
+        ],
+        "Fabio pizza-Drumul taberei": [
+            0.0,
+            -1
+        ],
+        "Fabio pizza-Traian": [
+            0.0,
+            -1
+        ],
+        "Fabio pizza-Vladoianu": [
+            0.0,
+            -1
+        ],
+        "Fabrica de Bere Grivita": [
+            4.99,
+            -1
+        ],
+        "Fabrica de Ciorbe Romana": [
+            -1,
+            6.99
+        ],
+        "Fabrica de Kebab": [
+            4.99,
+            -1
+        ],
+        "Fabrica de cafea": [
+            4.99,
+            -1
+        ],
+        "Fabrica de ciorbe-Bulevardul Iuliu Maniu nr. 7": [
+            4.99,
+            -1
+        ],
+        "Fabrica de ciorbe-Pia\u021ba Romana nr. 9": [
+            4.99,
+            -1
+        ],
+        "Fabrica de pizza": [
+            4.99,
+            -1
+        ],
+        "Facultatea de bere": [
+            -1,
+            6.99
+        ],
+        "Famous Burger Victoriei": [
+            -1,
+            5.0
+        ],
+        "Famous Waffles Afi": [
+            4.99,
+            -1
+        ],
+        "Famous Waffles Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Famous Waffles Promenada": [
+            4.99,
+            -1
+        ],
+        "Famous Waffles- Drumul Taberelor": [
+            4.99,
+            -1
+        ],
+        "Famous Waffles- Jumbo Berceni": [
+            4.99,
+            -1
+        ],
+        "Farinella": [
+            4.99,
+            -1
+        ],
+        "Faruno": [
+            4.99,
+            4.99
+        ],
+        "Faruno Pizza": [
+            -1,
+            4.99
+        ],
+        "Fast Food A": [
+            4.99,
+            -1
+        ],
+        "Fast Food Eminescu": [
+            -1,
+            6.99
+        ],
+        "Fast Food Gorjului": [
+            4.99,
+            -1
+        ],
+        "Fast Food Parcul Teilor": [
+            4.99,
+            -1
+        ],
+        "Fast food Baffi": [
+            4.99,
+            -1
+        ],
+        "Fast food La Calie": [
+            4.99,
+            -1
+        ],
+        "Fast to Go": [
+            -1,
+            6.99
+        ],
+        "Fastfood&Grill Specific Romanesc": [
+            4.99,
+            -1
+        ],
+        "Fatafit Libanez Snack and grill": [
+            -1,
+            6.99
+        ],
+        "Fendi Kebap": [
+            4.99,
+            -1
+        ],
+        "Fendi Kebap Brancoveanu": [
+            4.99,
+            -1
+        ],
+        "Fendi Kebap Novaci": [
+            4.99,
+            -1
+        ],
+        "Fibrio": [
+            4.99,
+            -1
+        ],
+        "Fior di latte": [
+            4.99,
+            -1
+        ],
+        "Fire Club": [
+            4.99,
+            -1
+        ],
+        "Fire Woks": [
+            4.99,
+            0.0
+        ],
+        "Fire Woks Delivery": [
+            -1,
+            0.0
+        ],
+        "Fire Woks Progresului": [
+            4.99,
+            -1
+        ],
+        "Fishy Mode Otopeni": [
+            4.99,
+            -1
+        ],
+        "Fishy Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "Fishy Tunari": [
+            4.99,
+            -1
+        ],
+        "Fit4You Delivery": [
+            9.99,
+            -1
+        ],
+        "Fitchef": [
+            4.99,
+            3.99
+        ],
+        "Fix me a Drink": [
+            4.99,
+            -1
+        ],
+        "Flame Burgers": [
+            -1,
+            6.99
+        ],
+        "Flameburgers Apaca": [
+            4.99,
+            -1
+        ],
+        "Flameburgers Matache": [
+            4.99,
+            -1
+        ],
+        "Flameburgers Vitan": [
+            4.99,
+            -1
+        ],
+        "Flamingo Bar&Grill": [
+            4.99,
+            -1
+        ],
+        "Flavors Restaurant": [
+            4.99,
+            -1
+        ],
+        "Flip Flop": [
+            4.99,
+            -1
+        ],
+        "FlipFlop": [
+            -1,
+            6.99
+        ],
+        "Flondor Pizza": [
+            -1,
+            5.99
+        ],
+        "Floreasca 23": [
+            4.99,
+            -1
+        ],
+        "Flori si Ciocolata": [
+            4.99,
+            -1
+        ],
+        "Fomizza-Apaca": [
+            4.99,
+            -1
+        ],
+        "Fomizza-Foisor": [
+            4.99,
+            -1
+        ],
+        "Fomizza-Mihalache": [
+            4.99,
+            -1
+        ],
+        "Food & Drinks": [
+            -1,
+            9.99
+        ],
+        "Food Amprent": [
+            4.99,
+            -1
+        ],
+        "Food To Go": [
+            4.99,
+            6.99
+        ],
+        "Food for Familly": [
+            4.99,
+            -1
+        ],
+        "FoodVibe": [
+            4.99,
+            3.99
+        ],
+        "Foodbazar": [
+            4.99,
+            -1
+        ],
+        "Foodkit": [
+            4.99,
+            -1
+        ],
+        "Foozz Delivery": [
+            0.0,
+            -1
+        ],
+        "Forever": [
+            4.99,
+            -1
+        ],
+        "Fornetti Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Fornetti Iuliu Maniu": [
+            4.99,
+            -1
+        ],
+        "Fornetti Piata Veteranilor": [
+            4.99,
+            -1
+        ],
+        "Fornetti Regina Elisabeta": [
+            -1,
+            5.99
+        ],
+        "Fort No 3": [
+            4.99,
+            -1
+        ],
+        "Four Seasons": [
+            4.99,
+            -1
+        ],
+        "Fratelli Herastrau": [
+            4.99,
+            -1
+        ],
+        "Fratellini": [
+            4.99,
+            -1
+        ],
+        "Freezy Gelato": [
+            4.99,
+            -1
+        ],
+        "French Bakery Giulesti": [
+            4.99,
+            -1
+        ],
+        "French Bakery Opera": [
+            4.99,
+            -1
+        ],
+        "French Burger": [
+            4.99,
+            -1
+        ],
+        "French Revolution - Floreasca": [
+            4.99,
+            -1
+        ],
+        "French Revolution - Grozavesti": [
+            4.99,
+            -1
+        ],
+        "French Revolution - Pia\u021ba Victoriei": [
+            4.99,
+            -1
+        ],
+        "Fresco": [
+            4.99,
+            -1
+        ],
+        "Fresh Chicken": [
+            4.99,
+            -1
+        ],
+        "Fresh Chicken Sebastian": [
+            4.99,
+            -1
+        ],
+        "Fresh Salads Militari": [
+            3.99,
+            -1
+        ],
+        "Fresh Salads Titan": [
+            3.99,
+            -1
+        ],
+        "Fresh fitness food": [
+            -1,
+            6.99
+        ],
+        "Fresh food": [
+            4.99,
+            -1
+        ],
+        "Fresh food express": [
+            4.99,
+            -1
+        ],
+        "FreshOnline": [
+            4.99,
+            -1
+        ],
+        "Friddi": [
+            4.99,
+            -1
+        ],
+        "Fries Before Guys Matache": [
+            4.99,
+            -1
+        ],
+        "Fries Before Guys Vitan": [
+            4.99,
+            9.99
+        ],
+        "Fries before Guys": [
+            4.99,
+            9.99
+        ],
+        "Fries before Guys Berceni": [
+            4.99,
+            -1
+        ],
+        "Fryday Bucuresti Mall": [
+            4.99,
+            -1
+        ],
+        "Full taste burgers": [
+            4.99,
+            -1
+        ],
+        "Fum de vorbe": [
+            -1,
+            3.99
+        ],
+        "Fun Pizza": [
+            4.99,
+            -1
+        ],
+        "FunKink Burgers": [
+            4.99,
+            -1
+        ],
+        "Funky Lounge Decebal": [
+            4.99,
+            -1
+        ],
+        "Furgoneta Berceni": [
+            4.99,
+            -1
+        ],
+        "Furgoneta Militari": [
+            4.99,
+            -1
+        ],
+        "Furgoneta Piata Victoriei": [
+            4.99,
+            -1
+        ],
+        "Furgoneta Pipera": [
+            4.99,
+            -1
+        ],
+        "GOOD-FOOD.ro": [
+            4.99,
+            -1
+        ],
+        "GRAM Bistro": [
+            4.99,
+            -1
+        ],
+        "Galletto": [
+            4.99,
+            -1
+        ],
+        "Gallo Nero": [
+            4.99,
+            -1
+        ],
+        "Gama Greek Taverna": [
+            4.99,
+            -1
+        ],
+        "Game On by Alex Bourceanu": [
+            4.99,
+            -1
+        ],
+        "Garden Caffe": [
+            4.99,
+            -1
+        ],
+        "Garden8": [
+            4.99,
+            -1
+        ],
+        "Gargantua Kiseleff": [
+            4.99,
+            -1
+        ],
+        "Gargantua Militari": [
+            4.99,
+            -1
+        ],
+        "Gargantua Parc": [
+            -1,
+            0.0
+        ],
+        "Gargantua Parc Delivery": [
+            -1,
+            5.99
+        ],
+        "Gargantua Park": [
+            4.99,
+            -1
+        ],
+        "Garlicpub": [
+            4.99,
+            -1
+        ],
+        "Gattini Pasta": [
+            4.99,
+            6.99
+        ],
+        "Gelafresh Drumul Murgului": [
+            4.99,
+            -1
+        ],
+        "Gelafresh Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Gelafresh Vasile Milea": [
+            4.99,
+            -1
+        ],
+        "Gelateria La Giuggiola": [
+            -1,
+            6.99
+        ],
+        "Gelateria La Romana dal 1947 - Afi Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Gelateria La Romana dal 1947 - Baneasa Shopping City": [
+            4.99,
+            -1
+        ],
+        "Gelateria La Romana dal 1947 - Calea Victoriei": [
+            4.99,
+            -1
+        ],
+        "Genin": [
+            -1,
+            6.99
+        ],
+        "George`s Fisheries": [
+            4.99,
+            -1
+        ],
+        "Georgy's Calea Mosilor": [
+            -1,
+            5.99
+        ],
+        "Ginger Horse Irish Pub": [
+            4.99,
+            -1
+        ],
+        "Ginger Sushi Bar & Lounge": [
+            -1,
+            5.99
+        ],
+        "Giradiko Floreasca": [
+            4.99,
+            -1
+        ],
+        "Glamour Caffe": [
+            4.99,
+            -1
+        ],
+        "Glamour Restro Cafe": [
+            -1,
+            6.99
+        ],
+        "Glucoza Bar": [
+            4.99,
+            -1
+        ],
+        "Godai": [
+            4.99,
+            -1
+        ],
+        "Golden Blitz": [
+            4.99,
+            -1
+        ],
+        "Golden kebab shaorma": [
+            4.99,
+            -1
+        ],
+        "Good Food": [
+            4.99,
+            -1
+        ],
+        "Goodeats": [
+            4.99,
+            -1
+        ],
+        "Gourmet Street Food": [
+            4.99,
+            4.99
+        ],
+        "Gourmet Street Food Truck": [
+            -1,
+            4.99
+        ],
+        "Gradina Lascar": [
+            4.99,
+            -1
+        ],
+        "Gradina Roka": [
+            4.99,
+            -1
+        ],
+        "Gradina Verona": [
+            4.99,
+            -1
+        ],
+        "Graffiti UrbanFood": [
+            4.0,
+            -1
+        ],
+        "Gramofon Wine - Victoriei": [
+            4.99,
+            -1
+        ],
+        "Gramofon Wine - Vitan": [
+            4.99,
+            -1
+        ],
+        "Gramofon Wine Bucurestii Noi": [
+            4.99,
+            -1
+        ],
+        "Grand Caf\u00e9 Van Gogh": [
+            4.99,
+            -1
+        ],
+        "Grand Chicken Chips": [
+            6.0,
+            -1
+        ],
+        "Gratar La Boby": [
+            4.99,
+            -1
+        ],
+        "Gratar Obor": [
+            4.99,
+            -1
+        ],
+        "Gratarul Meserias Orhideea": [
+            4.99,
+            -1
+        ],
+        "Gratarul Meserias Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Gratarul Meserias Vitan": [
+            4.99,
+            -1
+        ],
+        "Gratia Plena": [
+            4.99,
+            -1
+        ],
+        "Greek food Perigiali": [
+            4.99,
+            -1
+        ],
+        "Greek souvlaki": [
+            4.99,
+            -1
+        ],
+        "Gregorys Pipera": [
+            4.99,
+            -1
+        ],
+        "GrilLy": [
+            4.99,
+            -1
+        ],
+        "GrilLy delivery": [
+            7.99,
+            -1
+        ],
+        "Grill Balkan": [
+            4.99,
+            -1
+        ],
+        "Grill Balkan Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "Grill Food": [
+            4.99,
+            -1
+        ],
+        "Grill Garden Restaurant": [
+            4.99,
+            -1
+        ],
+        "Grill Pub Habby": [
+            4.99,
+            -1
+        ],
+        "Grill Zy": [
+            4.99,
+            -1
+        ],
+        "Grill by Caffeera": [
+            4.99,
+            -1
+        ],
+        "Grill by Meat and bread": [
+            4.99,
+            -1
+        ],
+        "Grill&More": [
+            4.99,
+            -1
+        ],
+        "Grill-ul din Berceni": [
+            7.99,
+            -1
+        ],
+        "Grill`s Lounge": [
+            0.0,
+            -1
+        ],
+        "Grillagio": [
+            4.99,
+            -1
+        ],
+        "Griller": [
+            4.99,
+            -1
+        ],
+        "Grillero Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "Grillero Otopeni": [
+            4.99,
+            -1
+        ],
+        "Grillero Tunari": [
+            4.99,
+            -1
+        ],
+        "Grillhaus": [
+            4.99,
+            -1
+        ],
+        "Grilly`s": [
+            4.99,
+            -1
+        ],
+        "Grivi\u2019s Place": [
+            0.0,
+            -1
+        ],
+        "Gust din Maramures": [
+            -1,
+            6.99
+        ],
+        "Gusta ceva bun": [
+            4.99,
+            -1
+        ],
+        "Gusteau`s Restaurant": [
+            4.99,
+            -1
+        ],
+        "Gusti Pizza": [
+            4.99,
+            -1
+        ],
+        "Gusto e Passione": [
+            0.0,
+            -1
+        ],
+        "Gusto e Passione Corbeanca": [
+            0.0,
+            -1
+        ],
+        "Gusto e Passione Pipera": [
+            0.0,
+            -1
+        ],
+        "Gyros Athena": [
+            4.99,
+            6.99
+        ],
+        "Gyros Dionysos Rezervelor": [
+            4.99,
+            -1
+        ],
+        "Gyros Dionysos Victoriei": [
+            -1,
+            6.99
+        ],
+        "Gyros Thessalonikis - Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "Gyros Thessalonikis Centru Vechi": [
+            -1,
+            3.99
+        ],
+        "Gyros Thessalonikis Chitilei": [
+            4.99,
+            -1
+        ],
+        "Gyros Thessalonikis Maniu": [
+            4.99,
+            -1
+        ],
+        "Gyros Thessalonikis Popesti": [
+            4.99,
+            -1
+        ],
+        "Gyroserie": [
+            4.99,
+            5.99
+        ],
+        "Gyroserie Vitan": [
+            4.99,
+            -1
+        ],
+        "H-Kebab": [
+            4.99,
+            -1
+        ],
+        "HOT WOKS - BUCURESTII NOI": [
+            4.99,
+            -1
+        ],
+        "HUMAN Coffee & Oh! PIZZA": [
+            4.99,
+            -1
+        ],
+        "HYGGE - Social Kitchen": [
+            -1,
+            3.99
+        ],
+        "Habbush Dulciuri Orientale": [
+            4.99,
+            -1
+        ],
+        "Hachi Sushi delivery": [
+            10.0,
+            -1
+        ],
+        "Hado Coffee Shop": [
+            4.99,
+            4.99
+        ],
+        "Hado Coffee Shop Titan": [
+            4.99,
+            -1
+        ],
+        "Hakez Food": [
+            -1,
+            6.99
+        ],
+        "Hala Mahala": [
+            4.99,
+            -1
+        ],
+        "Handsome Monk Dristorului": [
+            4.99,
+            -1
+        ],
+        "Handsome Monk Parklake": [
+            4.99,
+            -1
+        ],
+        "Handsome Monk Victoriei": [
+            4.99,
+            -1
+        ],
+        "Hanu' Lui Manuc": [
+            -1,
+            3.99
+        ],
+        "Hanu` lui Manuc": [
+            4.99,
+            -1
+        ],
+        "Hanul Haiducilor Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Hanul Vacaresti": [
+            4.99,
+            9.9
+        ],
+        "Hanul Vacaresti Delivery": [
+            4.99,
+            9.9
+        ],
+        "Hanul cu burgeri si pizza": [
+            4.99,
+            -1
+        ],
+        "Hap Chicken": [
+            4.99,
+            -1
+        ],
+        "Happy Burgers&Salad": [
+            4.99,
+            -1
+        ],
+        "Happy Food Grill & Burgers": [
+            4.99,
+            -1
+        ],
+        "Happy Pizza by Bucharest": [
+            4.99,
+            -1
+        ],
+        "Hard Rock Cafe Bucharest": [
+            4.99,
+            -1
+        ],
+        "Hashtag Pub": [
+            4.99,
+            6.99
+        ],
+        "Hatz Burger Studio": [
+            -1,
+            0.0
+        ],
+        "Haute Pepper": [
+            4.99,
+            -1
+        ],
+        "Haveli Indian Restaurant": [
+            -1,
+            6.99
+        ],
+        "Hayati Floreasca": [
+            4.99,
+            -1
+        ],
+        "Hayati Izvor": [
+            4.99,
+            -1
+        ],
+        "Hayati Piata Alba - Iulia": [
+            4.99,
+            -1
+        ],
+        "Hayati Straulesti": [
+            4.99,
+            -1
+        ],
+        "Hayati Victoria": [
+            4.99,
+            -1
+        ],
+        "Hello Donuts & 5 to Go Coffee Park Lake": [
+            4.99,
+            -1
+        ],
+        "Hello Donuts Afi": [
+            4.99,
+            -1
+        ],
+        "Hello Donuts Piata Unirii": [
+            4.99,
+            -1
+        ],
+        "Hello Donuts Vitan": [
+            4.99,
+            6.99
+        ],
+        "Hello Pita": [
+            4.99,
+            3.99
+        ],
+        "Hi Sushi Bucuresti": [
+            4.99,
+            4.99
+        ],
+        "Highway Burger": [
+            4.99,
+            -1
+        ],
+        "Holiday Inn Times": [
+            4.99,
+            -1
+        ],
+        "Holy Macaroni Matache": [
+            4.99,
+            -1
+        ],
+        "HopGarden": [
+            4.99,
+            -1
+        ],
+        "Hot Corn": [
+            -1,
+            6.99
+        ],
+        "Hot Doggerie": [
+            4.99,
+            -1
+        ],
+        "Hotwitchvan": [
+            -1,
+            6.99
+        ],
+        "House of Burger": [
+            5.0,
+            -1
+        ],
+        "House of american burger & grill": [
+            4.99,
+            -1
+        ],
+        "Huedin 19": [
+            4.99,
+            -1
+        ],
+        "Huedin 19 Delivery": [
+            4.99,
+            -1
+        ],
+        "Hummuserie Apaca": [
+            4.99,
+            -1
+        ],
+        "Hummuserie Matache": [
+            4.99,
+            -1
+        ],
+        "Hungry Chicken P-ta Alba Iulia": [
+            4.99,
+            -1
+        ],
+        "Hungry Chicken Stefan cel Mare": [
+            4.99,
+            -1
+        ],
+        "Hungry Chicken Straulesti": [
+            4.99,
+            -1
+        ],
+        "Hungry Chicken Victoriei": [
+            4.99,
+            -1
+        ],
+        "Hygge": [
+            4.99,
+            3.99
+        ],
+        "Hygge Pizza": [
+            4.99,
+            -1
+        ],
+        "I'Ladrino": [
+            -1,
+            3.99
+        ],
+        "IL Cantuccio Ristorante": [
+            4.99,
+            -1
+        ],
+        "ISAN Thai Kitchen": [
+            4.99,
+            -1
+        ],
+        "I`Ladrino": [
+            3.99,
+            -1
+        ],
+        "Iconic Health": [
+            4.99,
+            -1
+        ],
+        "Ido Memos": [
+            -1,
+            6.99
+        ],
+        "Ikura Sushi Unirii": [
+            -1,
+            3.99
+        ],
+        "Ikura Sushi- Titan": [
+            4.99,
+            -1
+        ],
+        "Ikura Sushi-Halelor": [
+            4.99,
+            -1
+        ],
+        "Ikura Sushi-Lujerului": [
+            4.99,
+            -1
+        ],
+        "Il Calcio by Mr. Val": [
+            4.99,
+            -1
+        ],
+        "Il Calcio by Mr. Val Clucerului": [
+            4.99,
+            -1
+        ],
+        "Il Calcio by Mr. Val Herastrau": [
+            4.99,
+            -1
+        ],
+        "Il Calcio by Mr. Val Romancierilor": [
+            4.99,
+            -1
+        ],
+        "Il Calcio by Mr.Val Pescariu": [
+            4.99,
+            -1
+        ],
+        "Il Capricio": [
+            4.99,
+            -1
+        ],
+        "Il Cucina Pizza si Paste": [
+            4.99,
+            -1
+        ],
+        "Il Destino": [
+            4.99,
+            5.99
+        ],
+        "Il Giardino": [
+            4.99,
+            -1
+        ],
+        "Il Peccato": [
+            4.99,
+            3.99
+        ],
+        "Il tuo Ristorante": [
+            4.99,
+            -1
+        ],
+        "Il tuo Ristorante Delivery": [
+            4.99,
+            -1
+        ],
+        "Imbiss Grill Promenda": [
+            4.99,
+            -1
+        ],
+        "Imbiss Grill Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "In House Pastrami&More": [
+            4.99,
+            -1
+        ],
+        "In Mici We Trust": [
+            4.99,
+            -1
+        ],
+        "In house pastrami & more": [
+            -1,
+            3.99
+        ],
+        "IndiVan Unirii": [
+            4.99,
+            4.99
+        ],
+        "Influence Restaurant&More": [
+            4.99,
+            -1
+        ],
+        "Ingredient Food": [
+            4.99,
+            -1
+        ],
+        "Ingredient Food Delivery": [
+            5.0,
+            -1
+        ],
+        "Inside Bistro Cafe": [
+            -1,
+            0.0
+        ],
+        "Interbelic food": [
+            4.99,
+            -1
+        ],
+        "Irish Food": [
+            4.99,
+            -1
+        ],
+        "Italian Style by Zarada Restaurant": [
+            4.99,
+            -1
+        ],
+        "Italian by A`": [
+            4.99,
+            -1
+        ],
+        "Italian by Caffeera": [
+            4.99,
+            -1
+        ],
+        "Ivan Pescar & Scrumbia Bar": [
+            4.99,
+            -1
+        ],
+        "J ai Bistrot": [
+            4.99,
+            -1
+        ],
+        "JA-WU Asiatic Cuisine Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Jack & Jak": [
+            0.0,
+            -1
+        ],
+        "Jacq Pot": [
+            9.99,
+            7.99
+        ],
+        "Jacq Pot - Delivery": [
+            -1,
+            7.99
+        ],
+        "Jacq Pot-Unirii": [
+            4.99,
+            -1
+        ],
+        "Jacq la gratar": [
+            9.99,
+            -1
+        ],
+        "Jadoo": [
+            4.99,
+            -1
+        ],
+        "Jalu Food Expozitiei": [
+            4.99,
+            -1
+        ],
+        "Japanos Ateneu": [
+            4.99,
+            -1
+        ],
+        "Japanos Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Japanos Floreasca": [
+            4.99,
+            -1
+        ],
+        "Japanos Victoriei": [
+            4.99,
+            -1
+        ],
+        "Jar Mananci": [
+            4.99,
+            -1
+        ],
+        "Jarre par Alouette": [
+            4.99,
+            2.99
+        ],
+        "Jarul cu mici": [
+            4.99,
+            -1
+        ],
+        "Jazz Book": [
+            4.99,
+            -1
+        ],
+        "Jazz Pizza": [
+            4.99,
+            -1
+        ],
+        "Jerry's Pizza Magheru": [
+            -1,
+            0.0
+        ],
+        "Johnny`s Fast Food": [
+            8.0,
+            -1
+        ],
+        "Journey Pub": [
+            -1,
+            5.99
+        ],
+        "Journey-Pub": [
+            4.99,
+            -1
+        ],
+        "Joy Coffee": [
+            4.99,
+            -1
+        ],
+        "Joy House": [
+            4.99,
+            -1
+        ],
+        "KARI Downtown": [
+            4.99,
+            -1
+        ],
+        "KFC Baneasa DT": [
+            4.99,
+            -1
+        ],
+        "KFC Cotroceni": [
+            4.99,
+            -1
+        ],
+        "KFC Crangasi": [
+            4.99,
+            -1
+        ],
+        "KFC Feeria": [
+            4.99,
+            -1
+        ],
+        "KFC Iancului DT": [
+            4.99,
+            -1
+        ],
+        "KFC Magheru": [
+            4.99,
+            -1
+        ],
+        "KFC Mall Vitan": [
+            4.99,
+            -1
+        ],
+        "KFC Mega Mall": [
+            4.99,
+            -1
+        ],
+        "KFC Mihai Bravu DT": [
+            4.99,
+            -1
+        ],
+        "KFC Militari DT": [
+            4.99,
+            -1
+        ],
+        "KFC Mosilor": [
+            4.99,
+            -1
+        ],
+        "KFC Oltenitei DT Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "KFC Orhideea": [
+            4.99,
+            -1
+        ],
+        "KFC Park Lake": [
+            4.99,
+            -1
+        ],
+        "KFC Plaza": [
+            4.99,
+            -1
+        ],
+        "KFC Promenada": [
+            4.99,
+            -1
+        ],
+        "KFC Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "KFC Unirea": [
+            4.99,
+            -1
+        ],
+        "KFC Universitate": [
+            4.99,
+            -1
+        ],
+        "KFC Vulcan DT": [
+            4.99,
+            -1
+        ],
+        "KUF": [
+            4.99,
+            -1
+        ],
+        "Ka Classic Food": [
+            0.0,
+            -1
+        ],
+        "Ka Classic delivery": [
+            0.0,
+            -1
+        ],
+        "Kabo Delivery": [
+            4.99,
+            -1
+        ],
+        "Kaiamo Kanteen": [
+            4.99,
+            -1
+        ],
+        "Kalypso Shaorma &Grill": [
+            4.99,
+            -1
+        ],
+        "Kanpai": [
+            4.99,
+            -1
+        ],
+        "Kanteen 162": [
+            -1,
+            3.99
+        ],
+        "Kantine by WienerHaus": [
+            -1,
+            6.99
+        ],
+        "Karamna": [
+            4.99,
+            6.99
+        ],
+        "Karamna Delivery": [
+            -1,
+            6.99
+        ],
+        "Karishma": [
+            10.0,
+            6.99
+        ],
+        "Karta": [
+            4.99,
+            4.99
+        ],
+        "Karta Restaurant": [
+            -1,
+            4.99
+        ],
+        "Kayo Grill": [
+            4.99,
+            -1
+        ],
+        "Kebab House": [
+            4.99,
+            -1
+        ],
+        "Kebaboss": [
+            4.99,
+            -1
+        ],
+        "Kiki's Corner": [
+            -1,
+            3.99
+        ],
+        "Kiki`s Corner": [
+            4.99,
+            -1
+        ],
+        "Kilkenny Irish Pub": [
+            4.99,
+            3.99
+        ],
+        "King Rolls": [
+            4.99,
+            6.99
+        ],
+        "King Rolls Afi": [
+            4.99,
+            -1
+        ],
+        "King Rolls Vitan": [
+            -1,
+            6.99
+        ],
+        "Kingdom Shaorma": [
+            4.99,
+            -1
+        ],
+        "Knl Chicken": [
+            4.99,
+            -1
+        ],
+        "Koffeine Regina Maria": [
+            -1,
+            6.99
+        ],
+        "Kofi Ti": [
+            4.99,
+            -1
+        ],
+        "Kostas Restaurant": [
+            -1,
+            6.99
+        ],
+        "Kral Cigkofte": [
+            4.99,
+            -1
+        ],
+        "Krisperie. Rosetti": [
+            4.99,
+            4.99
+        ],
+        "Kung Fu Afi Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Kung Fu Baneasa": [
+            4.99,
+            -1
+        ],
+        "Kung Fu King Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Kung Fu King Mihalache": [
+            4.99,
+            -1
+        ],
+        "Kung Fu King Vitan": [
+            4.99,
+            -1
+        ],
+        "Kung Fu Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Kungfu Pizza": [
+            10.0,
+            -1
+        ],
+        "L&A Catering": [
+            4.99,
+            -1
+        ],
+        "L'oroscopo Trattoria": [
+            -1,
+            4.99
+        ],
+        "LA FRATI - Fast Food & Grill": [
+            4.99,
+            -1
+        ],
+        "LA PETRA fast food": [
+            4.99,
+            -1
+        ],
+        "LA matei": [
+            4.99,
+            -1
+        ],
+        "LEE HO Cora Pantelimon": [
+            4.99,
+            -1
+        ],
+        "LEE HO Liberty Mall": [
+            4.99,
+            -1
+        ],
+        "LEE HO Orhideea": [
+            4.99,
+            -1
+        ],
+        "LI-WU Stefan cel Mare": [
+            -1,
+            6.99
+        ],
+        "LOKA": [
+            4.99,
+            -1
+        ],
+        "LOKA BAR": [
+            4.99,
+            -1
+        ],
+        "L`Arrogance": [
+            4.99,
+            -1
+        ],
+        "L`autre & Nori": [
+            4.99,
+            -1
+        ],
+        "L`osteria Bragadiru": [
+            4.99,
+            -1
+        ],
+        "L`osteria Italia": [
+            4.99,
+            -1
+        ],
+        "La Brasserie Bistro&Lounge": [
+            4.99,
+            -1
+        ],
+        "La Bufet": [
+            4.99,
+            -1
+        ],
+        "La Burrita": [
+            4.99,
+            -1
+        ],
+        "La Cartagina fresh food": [
+            4.99,
+            -1
+        ],
+        "La Ciotoianu Grill": [
+            4.99,
+            -1
+        ],
+        "La Ciurucuri": [
+            4.99,
+            5.99
+        ],
+        "La Cocosatu": [
+            4.99,
+            -1
+        ],
+        "La Cocosatu Baneasa": [
+            4.99,
+            -1
+        ],
+        "La Cocoselul Gustos": [
+            4.99,
+            -1
+        ],
+        "La Collina Restaurant si Pizzerie": [
+            4.99,
+            -1
+        ],
+        "La Colt": [
+            4.99,
+            3.99
+        ],
+        "La Doamna Dita - bucate alese cu grija": [
+            4.99,
+            -1
+        ],
+        "La Doamna X": [
+            4.99,
+            4.99
+        ],
+        "La Farola": [
+            3.0,
+            -1
+        ],
+        "La Farola delivery": [
+            4.99,
+            -1
+        ],
+        "La Finca By Alioli": [
+            4.99,
+            -1
+        ],
+        "La Gil": [
+            4.99,
+            -1
+        ],
+        "La Habib": [
+            4.99,
+            -1
+        ],
+        "La Hakim Lebanese Grill": [
+            4.99,
+            -1
+        ],
+        "La Iancu": [
+            0.0,
+            -1
+        ],
+        "La Iris": [
+            4.99,
+            -1
+        ],
+        "La Italianu": [
+            4.99,
+            -1
+        ],
+        "La Livada Food": [
+            4.99,
+            -1
+        ],
+        "La Luz by Latino Coffee": [
+            4.99,
+            -1
+        ],
+        "La Mama - Ateneu": [
+            4.99,
+            -1
+        ],
+        "La Mama - Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "La Mama - Delea Veche": [
+            4.99,
+            -1
+        ],
+        "La Mama - Muzeul Taranului": [
+            4.99,
+            -1
+        ],
+        "La Mama - Orhideea": [
+            4.99,
+            -1
+        ],
+        "La Mama Ateneu": [
+            -1,
+            5.99
+        ],
+        "La Mama Delea Veche": [
+            -1,
+            6.99
+        ],
+        "La Mamica Catering": [
+            4.99,
+            -1
+        ],
+        "La Mavro Berceni": [
+            4.99,
+            -1
+        ],
+        "La Mavro Colentina": [
+            4.99,
+            -1
+        ],
+        "La Micutu": [
+            4.99,
+            -1
+        ],
+        "La Micutu` 2": [
+            4.99,
+            -1
+        ],
+        "La Mosu": [
+            4.99,
+            -1
+        ],
+        "La Nea Mitica": [
+            4.99,
+            -1
+        ],
+        "La Nea Mitic\u0103": [
+            -1,
+            4.99
+        ],
+        "La Nenea Iancu": [
+            -1,
+            3.99
+        ],
+        "La Olteanu'": [
+            -1,
+            3.99
+        ],
+        "La Olteanu`": [
+            4.99,
+            -1
+        ],
+        "La Placinte Afi": [
+            11.0,
+            -1
+        ],
+        "La Placinte Berceni": [
+            11.0,
+            -1
+        ],
+        "La Placinte I.C Bratianu": [
+            -1,
+            11.0
+        ],
+        "La Placinte Mihalache": [
+            11.0,
+            -1
+        ],
+        "La Placinte Stefan": [
+            11.0,
+            -1
+        ],
+        "La Placinte Unirii": [
+            11.0,
+            -1
+        ],
+        "La Polonic": [
+            0.0,
+            -1
+        ],
+        "La Romanesc": [
+            4.99,
+            -1
+        ],
+        "La Rulota-Burgarie si altele Oituz": [
+            4.99,
+            -1
+        ],
+        "La Saveur": [
+            4.99,
+            -1
+        ],
+        "La Senna": [
+            4.99,
+            -1
+        ],
+        "La Stegulete": [
+            -1,
+            4.99
+        ],
+        "La Teu": [
+            -1,
+            6.99
+        ],
+        "La Turcu Bucuresti": [
+            4.99,
+            -1
+        ],
+        "La baraca": [
+            4.99,
+            -1
+        ],
+        "La crama": [
+            0.0,
+            -1
+        ],
+        "La foc iute": [
+            0.0,
+            -1
+        ],
+        "La ingineri Bistro delivery": [
+            4.99,
+            -1
+        ],
+        "LaBirou No2": [
+            4.99,
+            -1
+        ],
+        "LaPryanu": [
+            4.99,
+            -1
+        ],
+        "LaSafi Lebanese Food - Baneasa Mall": [
+            4.99,
+            -1
+        ],
+        "LaSafi Lebanese Food - Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Laboratorul Pastelor": [
+            4.99,
+            -1
+        ],
+        "Lacrimi si Sfinti": [
+            4.99,
+            -1
+        ],
+        "Lala\u2019s street food": [
+            4.99,
+            -1
+        ],
+        "Lanach Flavours Lizeanu": [
+            4.99,
+            -1
+        ],
+        "Lane Delivery": [
+            4.99,
+            4.99
+        ],
+        "Lane Delivery 2": [
+            4.99,
+            4.99
+        ],
+        "Lara Sweets": [
+            4.99,
+            -1
+        ],
+        "Las Clatite": [
+            4.99,
+            -1
+        ],
+        "Las Fierbinti": [
+            4.99,
+            -1
+        ],
+        "Lazoo Restaurant & Lounge": [
+            4.99,
+            -1
+        ],
+        "Le Bab - Downtown": [
+            4.99,
+            -1
+        ],
+        "Le Bab Fried Chicken - Amzei": [
+            4.99,
+            -1
+        ],
+        "Le Bab Fried Chicken - CDG": [
+            4.99,
+            -1
+        ],
+        "Lebanese by Zarada Restaurant": [
+            4.99,
+            -1
+        ],
+        "Lente Arcului": [
+            4.99,
+            -1
+        ],
+        "Lente Dionisie Lupu": [
+            4.99,
+            -1
+        ],
+        "Leonidas Baneasa": [
+            4.99,
+            -1
+        ],
+        "Leonidas Stefan cel Mare": [
+            4.99,
+            -1
+        ],
+        "Leonidas Veranda Mall": [
+            4.99,
+            -1
+        ],
+        "Leos Burger": [
+            4.99,
+            -1
+        ],
+        "Les Bourgeois Bistro": [
+            4.99,
+            -1
+        ],
+        "Level Up Dristorului 73": [
+            4.99,
+            -1
+        ],
+        "Level Up Iuliu Maniu 12": [
+            4.99,
+            -1
+        ],
+        "Level Up Oituz 13": [
+            4.99,
+            -1
+        ],
+        "Liban Bistro": [
+            4.99,
+            -1
+        ],
+        "Libanez Story": [
+            4.99,
+            -1
+        ],
+        "Liberte": [
+            4.99,
+            -1
+        ],
+        "Lido's Brasserie": [
+            -1,
+            4.99
+        ],
+        "Lizeanu Burger Station": [
+            4.99,
+            -1
+        ],
+        "Lizeanu Menu Box": [
+            4.99,
+            -1
+        ],
+        "Loca Sweets": [
+            4.99,
+            -1
+        ],
+        "Locanta Jaristea": [
+            4.99,
+            -1
+        ],
+        "Loko Burger": [
+            4.99,
+            -1
+        ],
+        "Lotus Food": [
+            4.99,
+            -1
+        ],
+        "Love You Choux by Livrez Fericire Centru": [
+            4.99,
+            -1
+        ],
+        "Love You Choux by Livrez Fericire Nord": [
+            4.99,
+            -1
+        ],
+        "Love at First Bite by Adriana": [
+            4.99,
+            -1
+        ],
+        "Lovi-te-ar Foamea": [
+            4.99,
+            -1
+        ],
+        "Lovin Wine Bar&Bistro": [
+            4.99,
+            -1
+        ],
+        "Lucky Pizza": [
+            0.0,
+            -1
+        ],
+        "Luica International": [
+            4.99,
+            -1
+        ],
+        "Luica Kitchen": [
+            4.99,
+            -1
+        ],
+        "Luna Cafe & Bistro": [
+            -1,
+            5.99
+        ],
+        "MACE by Joseph Hadad": [
+            4.99,
+            5.99
+        ],
+        "MAT": [
+            4.99,
+            3.99
+        ],
+        "MAUI WAUI": [
+            4.99,
+            -1
+        ],
+        "MODELiER": [
+            4.99,
+            -1
+        ],
+        "Mad Chef Cafe Bistro": [
+            4.99,
+            6.99
+        ],
+        "Mado Unirii": [
+            -1,
+            3.99
+        ],
+        "Mado2Go Unirii": [
+            4.99,
+            -1
+        ],
+        "Magic Pizza & Grill": [
+            0.0,
+            -1
+        ],
+        "Magic Sushi Bucuresti": [
+            4.99,
+            4.99
+        ],
+        "Mahala": [
+            4.99,
+            3.99
+        ],
+        "Maher": [
+            4.99,
+            0.0
+        ],
+        "Mai mult decat un dulce": [
+            4.99,
+            -1
+        ],
+        "Mai mult decat un dulce Crangasi": [
+            4.99,
+            -1
+        ],
+        "Mai mult decat un dulce Veteranilor": [
+            4.99,
+            -1
+        ],
+        "Maia Pizza Apaca": [
+            4.99,
+            -1
+        ],
+        "Maia Pizza Centru Vechi.": [
+            -1,
+            3.99
+        ],
+        "Maia Pizza Centrul Vechi": [
+            4.99,
+            -1
+        ],
+        "Maia Pizza Straduintei": [
+            4.99,
+            -1
+        ],
+        "Main Burger Delivery": [
+            7.99,
+            -1
+        ],
+        "Maison des Crepes Aviatorilor": [
+            4.99,
+            -1
+        ],
+        "Maison des Crepes Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Maison des Crepes Romana": [
+            4.99,
+            -1
+        ],
+        "Makkan": [
+            4.99,
+            -1
+        ],
+        "Makkan Berceni": [
+            9.9,
+            -1
+        ],
+        "Makkan Pipera": [
+            9.9,
+            -1
+        ],
+        "Malka Bucharest": [
+            4.99,
+            -1
+        ],
+        "Mama Bun\u0103": [
+            4.99,
+            -1
+        ],
+        "Mamizza": [
+            4.99,
+            -1
+        ],
+        "Manay Chinese Food": [
+            4.99,
+            -1
+        ],
+        "Mancare ca la bunica": [
+            4.99,
+            -1
+        ],
+        "Mancare la tuci & jar": [
+            4.99,
+            -1
+        ],
+        "Mancarea Bunicii Unirii": [
+            4.99,
+            -1
+        ],
+        "Mancaruri moldovenesti": [
+            4.99,
+            -1
+        ],
+        "Mancuso Pizza Italia": [
+            4.99,
+            -1
+        ],
+        "Mancus\u00f6 Pizza Italia": [
+            -1,
+            5.99
+        ],
+        "Mandaloo Restaurant Lounge": [
+            4.99,
+            -1
+        ],
+        "Mangiatoria Rica Venturiano": [
+            0.0,
+            -1
+        ],
+        "Manita coffee": [
+            4.99,
+            -1
+        ],
+        "Mantuleasa 40": [
+            4.99,
+            -1
+        ],
+        "Manufaktura Baneasa": [
+            4.99,
+            -1
+        ],
+        "Manufaktura Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Manufaktura Promenada": [
+            4.99,
+            -1
+        ],
+        "Manufaktura Victoriei": [
+            4.99,
+            -1
+        ],
+        "Mao Pub": [
+            4.99,
+            -1
+        ],
+        "Maraschino": [
+            4.99,
+            -1
+        ],
+        "Maroon Bistro Cafe": [
+            -1,
+            5.99
+        ],
+        "Martina Ristorante Pizzeria": [
+            4.99,
+            3.99
+        ],
+        "Martin\u2019s Fast Food": [
+            0.0,
+            -1
+        ],
+        "Marty Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Maya Fresh": [
+            -1,
+            6.99
+        ],
+        "McDonald's Unirea": [
+            -1,
+            4.99
+        ],
+        "McDonald`s Afi Cotroceni": [
+            5.99,
+            -1
+        ],
+        "McDonald`s America House Building": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Barbu Vacarescu": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Berceni DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Bragadiru DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Brancoveanu DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Buzesti Rock & Roll": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Central": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Colentina": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Cora Pantelimon": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Dristor DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Drumul Taberei": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Electroaparataj DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Feeria": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Liberty Mall": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Mall Vitan": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Morarilor": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Orhideea": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Otopeni": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Pacii DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Pallady DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Park Lake": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Pipera DT": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Plaza Mall": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Progresul": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Promenada Mall": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Romana": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Sun Plaza": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Titan": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Valea Cascadelor": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Veranda Mall": [
+            5.99,
+            -1
+        ],
+        "McDonald`s Virtutii": [
+            5.99,
+            -1
+        ],
+        "McDonald\u2019s Gara de Nord": [
+            5.99,
+            -1
+        ],
+        "McDonald\u2019s Unirea": [
+            5.99,
+            -1
+        ],
+        "Meal Break": [
+            4.99,
+            -1
+        ],
+        "Meat Busters - Carnivale": [
+            4.99,
+            -1
+        ],
+        "Meat Busters Bucuresti": [
+            -1,
+            6.99
+        ],
+        "Meat Busters Vitan": [
+            4.99,
+            -1
+        ],
+        "Meat Busters \u2013 Christmas Market": [
+            4.99,
+            -1
+        ],
+        "Meat House Colentina": [
+            4.99,
+            -1
+        ],
+        "MeatBusters Apaca": [
+            4.99,
+            -1
+        ],
+        "MeatBusters Matache": [
+            4.99,
+            -1
+        ],
+        "MeatMe@ Mode Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "MeatMe@ Mode Otopeni": [
+            4.99,
+            -1
+        ],
+        "MeatMe@ Mode Tunari": [
+            4.99,
+            -1
+        ],
+        "MeatTheBurgers": [
+            4.99,
+            6.99
+        ],
+        "MeatTheBurgers 12": [
+            -1,
+            6.99
+        ],
+        "MeatTheBurgers 3": [
+            -1,
+            5.99
+        ],
+        "MeatTheBurgers Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "MeatTheBurgers Delea Veche": [
+            4.99,
+            -1
+        ],
+        "MeatTheBurgers Muzeul Taranului": [
+            4.99,
+            -1
+        ],
+        "Meatball King": [
+            -1,
+            5.99
+        ],
+        "Mediterrano": [
+            4.99,
+            5.99
+        ],
+        "Mediterrano Vitan": [
+            4.99,
+            -1
+        ],
+        "Mediterrano \u2022 URBAN FOOD": [
+            -1,
+            5.99
+        ],
+        "MegaCrepes": [
+            4.99,
+            -1
+        ],
+        "Meniul Zilei Colentina": [
+            4.99,
+            -1
+        ],
+        "Meniul Zilei by Pizza Rustica": [
+            0.0,
+            -1
+        ],
+        "Meniul zilei Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Meniul zilei din livada": [
+            4.99,
+            -1
+        ],
+        "Meniuri Corporate": [
+            4.99,
+            -1
+        ],
+        "Meniuri Savuroase 25 ron": [
+            4.99,
+            -1
+        ],
+        "Meniuri cu Dichis": [
+            4.99,
+            -1
+        ],
+        "Mesogios Seafood Primaverii": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - AFI Cotroceni Etaj": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Bucuresti Mall": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Parklake Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Promenada Mall": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Veranda": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia - Vulcan Value Center": [
+            4.99,
+            -1
+        ],
+        "Mesopotamia Mall Vitan": [
+            -1,
+            6.99
+        ],
+        "Meva grill&food": [
+            4.99,
+            -1
+        ],
+        "Mexican Bizness Unirii": [
+            4.99,
+            4.99
+        ],
+        "Mi Piace Pasta Fresca & Sushi Tori": [
+            4.99,
+            -1
+        ],
+        "Mi Piace Pasta Fresca & Sushi Tori Baneasa": [
+            4.99,
+            -1
+        ],
+        "Mi Piace Pasta Fresca AFI Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Mi Piace Pasta Fresca Park Lake": [
+            4.99,
+            -1
+        ],
+        "Midnight Trattoria": [
+            4.99,
+            -1
+        ],
+        "Mint & Ivy Restaurant": [
+            4.99,
+            -1
+        ],
+        "Miorita kebap": [
+            0.0,
+            -1
+        ],
+        "Mirabella powered by #foodFORmood": [
+            4.99,
+            -1
+        ],
+        "Mishi Mishi": [
+            4.99,
+            -1
+        ],
+        "Miss Pho": [
+            4.99,
+            -1
+        ],
+        "Mister Kebab": [
+            4.99,
+            -1
+        ],
+        "Mixology Coffee Trailer": [
+            4.99,
+            -1
+        ],
+        "Mode Burger Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "Mode Burger Otopeni": [
+            4.99,
+            -1
+        ],
+        "Mode Burger Tunari": [
+            4.99,
+            -1
+        ],
+        "Moft Pizza E Pasta": [
+            4.99,
+            -1
+        ],
+        "Mogambo Lebanese Fast Food": [
+            -1,
+            6.99
+        ],
+        "Mojo Restaurant": [
+            -1,
+            3.99
+        ],
+        "Mom and brothers": [
+            -1,
+            3.99
+        ],
+        "Mon Cher Decebal": [
+            4.99,
+            -1
+        ],
+        "Mon Paris Restaurant & Lounge": [
+            5.99,
+            -1
+        ],
+        "Moon Bistro Greenfield": [
+            4.99,
+            -1
+        ],
+        "Moon Brasserie": [
+            4.99,
+            3.99
+        ],
+        "Moov Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "Moritz Eis": [
+            4.99,
+            -1
+        ],
+        "Mosilor Doner": [
+            4.99,
+            5.99
+        ],
+        "Moxy Bucharest Old Town": [
+            -1,
+            3.99
+        ],
+        "Mr Laziz Lebanese": [
+            4.99,
+            -1
+        ],
+        "Mr. Almond": [
+            4.99,
+            -1
+        ],
+        "Mr. Cigkofte": [
+            -1,
+            4.99
+        ],
+        "Mr. Crispy Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Mr. Laziz": [
+            4.99,
+            -1
+        ],
+        "Mr. Pizza": [
+            4.99,
+            -1
+        ],
+        "Mr. Sausage": [
+            4.99,
+            -1
+        ],
+        "Mumbai Food": [
+            4.99,
+            -1
+        ],
+        "MumbaiFood - Restaurant Indian": [
+            -1,
+            6.99
+        ],
+        "Munchies Food": [
+            4.99,
+            -1
+        ],
+        "My Meal": [
+            4.99,
+            -1
+        ],
+        "NAAN": [
+            4.99,
+            3.99
+        ],
+        "NOA Restoclub": [
+            4.99,
+            -1
+        ],
+        "NOAH`S BURGER": [
+            4.99,
+            -1
+        ],
+        "NOAH`S BURGER Progresului": [
+            4.99,
+            -1
+        ],
+        "NOMAD SKYBAR": [
+            -1,
+            3.99
+        ],
+        "NORDSEE Vitan Mall": [
+            -1,
+            6.99
+        ],
+        "Nadasan": [
+            4.99,
+            -1
+        ],
+        "Nadasan Delivery": [
+            4.99,
+            -1
+        ],
+        "Nae Bistro Cafe": [
+            4.99,
+            -1
+        ],
+        "Naser 2": [
+            4.99,
+            0.0
+        ],
+        "Naser 3": [
+            10.0,
+            0.0
+        ],
+        "Neighbours Coffee & More": [
+            -1,
+            6.99
+        ],
+        "Nenea Iancu": [
+            4.99,
+            3.99
+        ],
+        "New York Bakers": [
+            4.99,
+            -1
+        ],
+        "New York Bistro": [
+            4.99,
+            -1
+        ],
+        "Newton Gastro Bar": [
+            4.99,
+            -1
+        ],
+        "Newton Gastro Bar delivery": [
+            4.99,
+            -1
+        ],
+        "Newton Gastrobar": [
+            -1,
+            4.99
+        ],
+        "Nice Touch": [
+            4.99,
+            3.99
+        ],
+        "Nice Touch - restaurant cu specific relaxant": [
+            -1,
+            3.99
+        ],
+        "Nicolai": [
+            4.99,
+            6.99
+        ],
+        "Nicolai Splaiul Unirii": [
+            4.99,
+            -1
+        ],
+        "Nicolai Timpuri Noi": [
+            -1,
+            6.99
+        ],
+        "Nicole Catering": [
+            4.99,
+            0.0
+        ],
+        "Nicole Catering delivery": [
+            5.0,
+            -1
+        ],
+        "Nikos Greek & Fast Promenada": [
+            4.99,
+            -1
+        ],
+        "Nikos Greek Taverna Apaca": [
+            4.99,
+            -1
+        ],
+        "Nikos Greek Taverna Burebista": [
+            4.99,
+            -1
+        ],
+        "Nikos Greek Taverna Straduintei": [
+            4.99,
+            -1
+        ],
+        "Nikos Greek Taverna Tonitza 6": [
+            4.99,
+            -1
+        ],
+        "No Name": [
+            4.99,
+            -1
+        ],
+        "Noah\u2019s Burger": [
+            -1,
+            0.0
+        ],
+        "Nod Urban Food": [
+            4.99,
+            -1
+        ],
+        "Noeme": [
+            4.99,
+            -1
+        ],
+        "Noma Herastrau": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack AFI Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack America House": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Baneasa Shopping City": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Barbu Vacarescu": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Drumul Taberelor": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack ParkLake": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Promenada Mall Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Noodle Pack Veranda Mall": [
+            4.99,
+            6.99
+        ],
+        "Nord Catering": [
+            4.99,
+            -1
+        ],
+        "Nori Sushi Delivery": [
+            -1,
+            7.0
+        ],
+        "Noua Pickup Station - aprovizionat cu peste de luat acasa": [
+            4.99,
+            -1
+        ],
+        "Nuaj": [
+            4.99,
+            -1
+        ],
+        "Nuba Cafe": [
+            4.99,
+            -1
+        ],
+        "Numa` Barabule!": [
+            4.99,
+            -1
+        ],
+        "Nussdorf": [
+            4.99,
+            -1
+        ],
+        "OK Sushi": [
+            4.99,
+            -1
+        ],
+        "OMEGA FOOD & SWEET": [
+            -1,
+            6.99
+        ],
+        "OMLETA by Davidone Pizza": [
+            -1,
+            3.99
+        ],
+        "OMNI Gelato": [
+            4.99,
+            -1
+        ],
+        "OMNI Pizza": [
+            4.99,
+            -1
+        ],
+        "ORYGYNS Specialty Coffee Aviatiei": [
+            4.99,
+            -1
+        ],
+        "ORYGYNS Specialty Coffee Romana": [
+            4.99,
+            5.99
+        ],
+        "ORYGYNS Specialty Coffee Timpuri Noi": [
+            4.99,
+            -1
+        ],
+        "Oaia, Mielul si Berbecul": [
+            4.99,
+            -1
+        ],
+        "Oala": [
+            4.99,
+            0.0
+        ],
+        "Oala cu de toate": [
+            4.99,
+            -1
+        ],
+        "Oala lui Vio": [
+            4.99,
+            0.0
+        ],
+        "Oala lui Vio Delivery (mancare la oala)": [
+            -1,
+            0.0
+        ],
+        "Oala lui Vio delivery": [
+            4.99,
+            0.0
+        ],
+        "Oby Fast Food": [
+            4.99,
+            -1
+        ],
+        "Officina 29": [
+            4.99,
+            -1
+        ],
+        "Oh! Salad Decebal": [
+            4.99,
+            -1
+        ],
+        "Oh! Salad Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Oh! Salad- Victoriei": [
+            4.99,
+            -1
+        ],
+        "Ohvaz": [
+            4.99,
+            -1
+        ],
+        "Ohvaz Natiunile Unite": [
+            4.99,
+            -1
+        ],
+        "Old Brick Pub": [
+            4.99,
+            -1
+        ],
+        "Old Mike Pub": [
+            4.99,
+            -1
+        ],
+        "Omlettarie": [
+            4.99,
+            -1
+        ],
+        "Oneiro Studio": [
+            -1,
+            6.99
+        ],
+        "Opa Food of Greece": [
+            4.99,
+            -1
+        ],
+        "Opa! Opa! Valea Cascadelor": [
+            4.99,
+            -1
+        ],
+        "Opa!-Opa! Greek Food": [
+            4.99,
+            -1
+        ],
+        "Oriental Grill": [
+            4.99,
+            -1
+        ],
+        "Original David`s Food": [
+            4.99,
+            -1
+        ],
+        "Oro Toro Baneasa": [
+            4.99,
+            -1
+        ],
+        "Oro Toro Floreasca": [
+            4.99,
+            -1
+        ],
+        "Osho": [
+            4.99,
+            -1
+        ],
+        "Osteria Zucca": [
+            4.99,
+            -1
+        ],
+        "Ou Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Oval Food": [
+            4.99,
+            6.99
+        ],
+        "Oval Pizza": [
+            4.99,
+            6.99
+        ],
+        "PHP Pizza Al Forno": [
+            4.99,
+            -1
+        ],
+        "PIZZAMANIA": [
+            4.99,
+            6.99
+        ],
+        "PRANZO by ESS @ FBP": [
+            4.99,
+            -1
+        ],
+        "PRANZO by ESS @ WTC": [
+            4.99,
+            -1
+        ],
+        "PT Pizza Shop by Patiseria Tineretului": [
+            4.99,
+            -1
+        ],
+        "PadThai": [
+            4.99,
+            6.99
+        ],
+        "Pain Au Cafe": [
+            4.99,
+            4.99
+        ],
+        "Pain Plaisir - Enescu": [
+            4.99,
+            -1
+        ],
+        "Pain Plaisir - Floreasca": [
+            4.99,
+            -1
+        ],
+        "Pain Plaisir - Kiseleff": [
+            4.99,
+            -1
+        ],
+        "Paine si Vin": [
+            4.99,
+            -1
+        ],
+        "Pajo Garden": [
+            0.0,
+            -1
+        ],
+        "Pajo Street Food": [
+            0.0,
+            6.99
+        ],
+        "Palmiye Cakes Callimachi": [
+            4.99,
+            -1
+        ],
+        "Palmiye Cakes Promenada": [
+            4.99,
+            -1
+        ],
+        "Pancakes & More": [
+            4.99,
+            -1
+        ],
+        "Panero Pizza&Bakery": [
+            4.99,
+            -1
+        ],
+        "Panitalia": [
+            4.99,
+            -1
+        ],
+        "Panoramic Restaurant": [
+            4.99,
+            -1
+        ],
+        "Pantelimon Bistro": [
+            4.99,
+            -1
+        ],
+        "Panzanella Home Delivery": [
+            -1,
+            4.99
+        ],
+        "Papa ca Acasa": [
+            -1,
+            3.99
+        ],
+        "Papanasi & Pancakes Campineanu": [
+            4.99,
+            -1
+        ],
+        "Papanasu' Stirbei": [
+            -1,
+            6.99
+        ],
+        "Papila": [
+            4.99,
+            -1
+        ],
+        "Paque Bistro": [
+            4.99,
+            6.99
+        ],
+        "Paque Bistro&More": [
+            -1,
+            6.99
+        ],
+        "Park Greek Taverna Delivery": [
+            -1,
+            4.99
+        ],
+        "Park View Caffe": [
+            4.99,
+            -1
+        ],
+        "Party Ciao": [
+            4.99,
+            -1
+        ],
+        "Pasha doner kebap": [
+            4.99,
+            -1
+        ],
+        "Pasta Factory Militari": [
+            3.99,
+            -1
+        ],
+        "Pasta Factory Titan": [
+            3.99,
+            -1
+        ],
+        "Pasta Gusto": [
+            4.99,
+            -1
+        ],
+        "Pasta Vero": [
+            6.99,
+            -1
+        ],
+        "Pasta del Popolo": [
+            4.99,
+            -1
+        ],
+        "Pastaa": [
+            4.99,
+            -1
+        ],
+        "Pastaerra Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "Pastaerra Otopeni": [
+            4.99,
+            -1
+        ],
+        "Pastammore Food Truck Dorobanti": [
+            -1,
+            6.99
+        ],
+        "Pastammore food truck": [
+            4.99,
+            6.99
+        ],
+        "Paste&Burgeri": [
+            4.99,
+            -1
+        ],
+        "Pasteis de Nata": [
+            4.99,
+            3.99
+        ],
+        "Pasteis de Nata Pipera": [
+            4.99,
+            -1
+        ],
+        "Pasteis de Nata by Vanilla Centru Vechi": [
+            -1,
+            3.99
+        ],
+        "PastelLab": [
+            4.99,
+            -1
+        ],
+        "Pastele lui Aladin": [
+            4.99,
+            -1
+        ],
+        "Pastificio Ilioara": [
+            5.0,
+            -1
+        ],
+        "Pastificio Petrolului": [
+            5.0,
+            -1
+        ],
+        "Patiseria Pinocchio": [
+            4.99,
+            -1
+        ],
+        "Patiseria Radu Voda": [
+            4.99,
+            -1
+        ],
+        "Patiseria Tineretului - Sincai": [
+            4.99,
+            -1
+        ],
+        "Patiseria Tineretului- Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Patiseria Tineretului- Stefan cel Mare": [
+            4.99,
+            -1
+        ],
+        "Patiseria Tineretului- Unirea": [
+            4.99,
+            -1
+        ],
+        "Paul Baneasa": [
+            4.99,
+            -1
+        ],
+        "Paul Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Paul Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Paul Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Paul ParkLake": [
+            4.99,
+            -1
+        ],
+        "Paul Promenada": [
+            4.99,
+            -1
+        ],
+        "Paul Romana": [
+            4.99,
+            -1
+        ],
+        "Paul Universitate": [
+            4.99,
+            -1
+        ],
+        "Pauza Mica by Selgros Baneasa": [
+            4.99,
+            -1
+        ],
+        "Pauza Mica by Selgros Berceni": [
+            4.99,
+            -1
+        ],
+        "Pauza Mica by Selgros Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Pauza Mica by Selgros Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Pe gustul tau": [
+            4.99,
+            -1
+        ],
+        "Pe gustul tau delivery": [
+            4.99,
+            -1
+        ],
+        "Pedros Autoservire": [
+            4.99,
+            -1
+        ],
+        "Peking Duck Mihai Bravu": [
+            -1,
+            6.99
+        ],
+        "Peng You Hala Traian": [
+            -1,
+            4.99
+        ],
+        "PengYou Apaca": [
+            4.99,
+            -1
+        ],
+        "PengYou Hala Traian": [
+            4.99,
+            -1
+        ],
+        "PengYou Occidentului": [
+            4.99,
+            -1
+        ],
+        "Pep&Pepper Afi": [
+            4.99,
+            -1
+        ],
+        "Pep&Pepper Baneasa": [
+            4.99,
+            -1
+        ],
+        "Pep&Pepper Park Lake": [
+            4.99,
+            -1
+        ],
+        "Pep&Pepper Plaza": [
+            4.99,
+            -1
+        ],
+        "Pep&Pepper Promenada": [
+            4.99,
+            -1
+        ],
+        "Pepitos": [
+            4.99,
+            -1
+        ],
+        "Pepper Pizza": [
+            4.99,
+            -1
+        ],
+        "Perfect": [
+            4.99,
+            -1
+        ],
+        "Perugia Pizza": [
+            -1,
+            6.99
+        ],
+        "Pes market Depozit": [
+            4.99,
+            -1
+        ],
+        "Peste & Grill": [
+            4.99,
+            -1
+        ],
+        "Petritis Gyros": [
+            4.99,
+            -1
+        ],
+        "Picobello": [
+            4.99,
+            3.99
+        ],
+        "Picolino": [
+            4.99,
+            -1
+        ],
+        "Picolino Mihai Bravu": [
+            4.99,
+            -1
+        ],
+        "Pikandy Pizza & Grill": [
+            0.0,
+            -1
+        ],
+        "Pine Restaurant & Terasa": [
+            4.99,
+            -1
+        ],
+        "Pinsa Chitila": [
+            0.0,
+            -1
+        ],
+        "Pinsa Mogosoaia": [
+            0.0,
+            -1
+        ],
+        "Pio Bistro": [
+            4.99,
+            4.99
+        ],
+        "Pio Bistro Delivery": [
+            -1,
+            4.99
+        ],
+        "Pipo`s": [
+            4.99,
+            -1
+        ],
+        "Pita Bucharest": [
+            4.99,
+            -1
+        ],
+        "Pita Van Baba Novac": [
+            4.99,
+            -1
+        ],
+        "Pizza & Burger Sud": [
+            4.99,
+            -1
+        ],
+        "Pizza & Burger Sud Delivery": [
+            4.99,
+            -1
+        ],
+        "Pizza & Pasta by CIAO": [
+            4.99,
+            -1
+        ],
+        "Pizza Aladin": [
+            4.99,
+            -1
+        ],
+        "Pizza Apetito": [
+            5.0,
+            -1
+        ],
+        "Pizza Bonita Afi Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Colosseum": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Militari": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Parklake": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Pipera Plaza": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Plaza": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Strip Mall": [
+            4.99,
+            -1
+        ],
+        "Pizza Bonita Vulcan": [
+            4.99,
+            -1
+        ],
+        "Pizza Champions": [
+            0.0,
+            -1
+        ],
+        "Pizza Colosseum": [
+            4.99,
+            -1
+        ],
+        "Pizza D-Day": [
+            4.99,
+            -1
+        ],
+        "Pizza Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Pizza Elegant": [
+            -1,
+            6.99
+        ],
+        "Pizza Factory Militari": [
+            3.99,
+            -1
+        ],
+        "Pizza Factory Titan": [
+            3.99,
+            -1
+        ],
+        "Pizza Hard": [
+            4.99,
+            -1
+        ],
+        "Pizza Hub": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Afi Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Baneasa Mall": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery 13 Septembrie": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Auchan": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Baba Novac": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Bucurestii Noi": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Colentina": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Mihalache": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Obor": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Orhideea": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Pipera": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Popesti-Leordeni": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Rahova": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Delivery Vitan": [
+            4.99,
+            5.99
+        ],
+        "Pizza Hut Delta": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Mosilor": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Park Lake": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Plaza": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Romana": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Pizza Hut Universitate": [
+            -1,
+            3.99
+        ],
+        "Pizza Hut Vitan": [
+            4.99,
+            -1
+        ],
+        "Pizza Ka Militari": [
+            4.99,
+            -1
+        ],
+        "Pizza Ka Militari Delivery": [
+            4.99,
+            -1
+        ],
+        "Pizza Ka Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Pizza Ka Rahova": [
+            4.99,
+            -1
+        ],
+        "Pizza Ka Rahova Delivery": [
+            4.99,
+            -1
+        ],
+        "Pizza Kaminos": [
+            4.99,
+            -1
+        ],
+        "Pizza Lovers & Grill": [
+            0.0,
+            -1
+        ],
+        "Pizza Malcoci Delivery": [
+            -1,
+            5.0
+        ],
+        "Pizza NYPD Delivery": [
+            4.99,
+            -1
+        ],
+        "Pizza Napoletta": [
+            4.99,
+            -1
+        ],
+        "Pizza PPH Viilor": [
+            -1,
+            0.0
+        ],
+        "Pizza Pazza 2": [
+            4.99,
+            -1
+        ],
+        "Pizza Planet": [
+            0.0,
+            -1
+        ],
+        "Pizza Planet Drumul Taberei": [
+            0.0,
+            -1
+        ],
+        "Pizza Planet Giurgiului": [
+            0.0,
+            -1
+        ],
+        "Pizza Pompei": [
+            4.99,
+            -1
+        ],
+        "Pizza Radu": [
+            3.99,
+            -1
+        ],
+        "Pizza Real Delivery": [
+            4.99,
+            -1
+        ],
+        "Pizza Rivoli": [
+            -1,
+            0.0
+        ],
+        "Pizza Roberto": [
+            4.99,
+            -1
+        ],
+        "Pizza Roma": [
+            6.99,
+            6.99
+        ],
+        "Pizza Rustica Chitila": [
+            0.0,
+            -1
+        ],
+        "Pizza Rustica RGL": [
+            4.99,
+            -1
+        ],
+        "Pizza Shop by Patiseria Tineretului": [
+            4.99,
+            -1
+        ],
+        "Pizza Suprema": [
+            0.0,
+            -1
+        ],
+        "Pizza Venetia": [
+            4.99,
+            -1
+        ],
+        "Pizza Volante": [
+            4.99,
+            -1
+        ],
+        "Pizza&pasta": [
+            4.99,
+            -1
+        ],
+        "PizzaBar Aluat": [
+            4.99,
+            -1
+        ],
+        "PizzaPasta Quartiere": [
+            4.99,
+            -1
+        ],
+        "Pizzamania 2go": [
+            4.99,
+            6.99
+        ],
+        "Pizzarella Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Pizzaro by Trattoria Planet": [
+            0.0,
+            -1
+        ],
+        "Pizzaro by Trattoria Planet Drumul Taberei": [
+            0.0,
+            -1
+        ],
+        "Pizzaro by Trattoria Planet Giurgiului": [
+            0.0,
+            -1
+        ],
+        "Pizzeria Alessandro": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Athos": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Chef": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Da Giulio": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Florina": [
+            0.0,
+            10.0
+        ],
+        "Pizzeria Gourmonde": [
+            3.99,
+            -1
+        ],
+        "Pizzeria Il Pizzarello Delivery": [
+            0.0,
+            -1
+        ],
+        "Pizzeria La Strada": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Maestro Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Margherita": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Monkey\u2019s": [
+            4.99,
+            -1
+        ],
+        "Pizzeria Trattoria Sardegna": [
+            -1,
+            3.99
+        ],
+        "Pizzeria Volare": [
+            4.99,
+            -1
+        ],
+        "Pizzeria da Michele": [
+            4.99,
+            -1
+        ],
+        "Pizzeria di marco": [
+            4.99,
+            -1
+        ],
+        "Pizzicato Icoanei": [
+            4.99,
+            0.0
+        ],
+        "Pizzicato Militari": [
+            4.99,
+            -1
+        ],
+        "Pizzicato Victoriei": [
+            4.99,
+            -1
+        ],
+        "Pizzou": [
+            4.99,
+            -1
+        ],
+        "Placinta intinsa Turnu": [
+            4.99,
+            -1
+        ],
+        "Placintaria Tei": [
+            4.99,
+            -1
+        ],
+        "Placinte Calde": [
+            4.99,
+            -1
+        ],
+        "Placinte Calde 1": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde 2": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde 3": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde 4": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde 5": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde 6": [
+            0.0,
+            -1
+        ],
+        "Placinte Calde.ro": [
+            4.99,
+            -1
+        ],
+        "Planet Grill": [
+            0.0,
+            -1
+        ],
+        "Planet Grill Drumul Taberei": [
+            0.0,
+            -1
+        ],
+        "Planet Grill Giurgiului": [
+            0.0,
+            -1
+        ],
+        "Plescavita Pipera": [
+            4.99,
+            -1
+        ],
+        "Plescavita Sarbeasca Vacaresti": [
+            -1,
+            6.99
+        ],
+        "Plescavita Vacaresti": [
+            4.99,
+            -1
+        ],
+        "Plescavita Van by Taverna Sarbului Unirii": [
+            -1,
+            4.99
+        ],
+        "PlescavitaVan": [
+            4.99,
+            -1
+        ],
+        "PlescavitaVan Union Plaza": [
+            4.99,
+            -1
+        ],
+        "PlescavitaVan by Taverna S\u00e2rbului Colentina": [
+            4.99,
+            -1
+        ],
+        "Poesia": [
+            4.99,
+            -1
+        ],
+        "Poli Chinese Street Food Universitate": [
+            -1,
+            3.99
+        ],
+        "Poli Universitate": [
+            4.99,
+            -1
+        ],
+        "Politica si delicateturi": [
+            4.99,
+            -1
+        ],
+        "Politic\u0103 \u0219i Delicate\u021buri": [
+            -1,
+            4.99
+        ],
+        "Polonik": [
+            4.99,
+            -1
+        ],
+        "Polonik Matache": [
+            4.99,
+            -1
+        ],
+        "Pomodoro pizza": [
+            0.0,
+            -1
+        ],
+        "Popasul cu mici": [
+            4.99,
+            -1
+        ],
+        "Popeye Chicken": [
+            4.99,
+            -1
+        ],
+        "Porkitos & More": [
+            4.99,
+            -1
+        ],
+        "Porto Gallo Charles de Gaulle": [
+            4.99,
+            -1
+        ],
+        "Porto Gallo Luica": [
+            4.99,
+            -1
+        ],
+        "Porto Gallo Pipera": [
+            4.99,
+            -1
+        ],
+        "Porto Gallo Tunari": [
+            4.99,
+            -1
+        ],
+        "Porto Gallo Victoriei": [
+            4.99,
+            -1
+        ],
+        "Povesti Romanesti Delivery": [
+            -1,
+            5.0
+        ],
+        "Pow Wow": [
+            4.99,
+            -1
+        ],
+        "Power Food House": [
+            4.99,
+            -1
+        ],
+        "Prajitura din Natura": [
+            4.99,
+            -1
+        ],
+        "Preda`s Food": [
+            4.99,
+            -1
+        ],
+        "Presto Pizza": [
+            5.0,
+            5.0
+        ],
+        "Presto Pizza Rezervelor": [
+            5.0,
+            -1
+        ],
+        "Presto Pizza Traian": [
+            -1,
+            5.0
+        ],
+        "Presto Ristorante": [
+            -1,
+            6.99
+        ],
+        "Primitiv BBQ": [
+            4.99,
+            -1
+        ],
+        "Primo 13 Septembrie": [
+            4.99,
+            -1
+        ],
+        "Primo Romancierilor": [
+            4.99,
+            -1
+        ],
+        "Primus": [
+            4.99,
+            -1
+        ],
+        "Pronto Catering": [
+            4.99,
+            -1
+        ],
+        "Provence Berceni": [
+            4.99,
+            -1
+        ],
+        "Provence Iancului": [
+            4.99,
+            0.0
+        ],
+        "Pub Good Food": [
+            4.99,
+            -1
+        ],
+        "Pub Lusitan e Casa de Benfica": [
+            4.99,
+            -1
+        ],
+        "Puerto cafe": [
+            4.99,
+            -1
+        ],
+        "Pui La Jar Popesti": [
+            4.99,
+            -1
+        ],
+        "Pui-Pui": [
+            4.99,
+            -1
+        ],
+        "Puii mei (Veranda)": [
+            4.99,
+            -1
+        ],
+        "Q Martinez": [
+            4.99,
+            -1
+        ],
+        "QP PUB": [
+            -1,
+            4.99
+        ],
+        "Qmarttinez": [
+            -1,
+            3.99
+        ],
+        "Quartier Bistro-Cafe": [
+            -1,
+            6.99
+        ],
+        "Quartiere": [
+            4.99,
+            -1
+        ],
+        "Quartiere Grill": [
+            4.99,
+            -1
+        ],
+        "Quick Food": [
+            4.99,
+            -1
+        ],
+        "Quick Foody": [
+            4.99,
+            -1
+        ],
+        "Quicky food": [
+            4.99,
+            -1
+        ],
+        "Qzine - mancare cu IQ - Universitate": [
+            -1,
+            4.99
+        ],
+        "RO dog by Etno Food": [
+            -1,
+            3.99
+        ],
+        "Rabah fast food": [
+            4.99,
+            -1
+        ],
+        "Raftul cu dulciuri": [
+            10.0,
+            -1
+        ],
+        "Rainbow bar & grill": [
+            4.99,
+            -1
+        ],
+        "Rainbowls": [
+            4.99,
+            -1
+        ],
+        "Raionul de Pe\u0219te Floreasca": [
+            4.99,
+            -1
+        ],
+        "Ramana Garden Decebal": [
+            -1,
+            6.99
+        ],
+        "Ramnic Grill": [
+            4.99,
+            -1
+        ],
+        "Rapsodia Ilioara": [
+            5.0,
+            -1
+        ],
+        "Rapsodia Petrolului": [
+            5.0,
+            -1
+        ],
+        "Rare House": [
+            0.0,
+            -1
+        ],
+        "Rawdia": [
+            4.99,
+            -1
+        ],
+        "Rawyal Brunch & Cakes": [
+            -1,
+            3.99
+        ],
+        "Rawyal Mosilor": [
+            4.99,
+            -1
+        ],
+        "Red Angus Steakhouse": [
+            0.0,
+            3.99
+        ],
+        "Red Wok": [
+            4.99,
+            -1
+        ],
+        "Refresh": [
+            4.99,
+            -1
+        ],
+        "Restaurant 33": [
+            -1,
+            4.99
+        ],
+        "Restaurant Adamo": [
+            0.0,
+            -1
+        ],
+        "Restaurant Al Wady": [
+            4.99,
+            -1
+        ],
+        "Restaurant Allegra": [
+            4.99,
+            -1
+        ],
+        "Restaurant Allegro": [
+            4.99,
+            -1
+        ],
+        "Restaurant Arancini": [
+            4.99,
+            -1
+        ],
+        "Restaurant Arigato": [
+            4.99,
+            -1
+        ],
+        "Restaurant BBQ La Jar": [
+            4.99,
+            -1
+        ],
+        "Restaurant Barmi": [
+            4.99,
+            -1
+        ],
+        "Restaurant Barrio": [
+            4.99,
+            -1
+        ],
+        "Restaurant Basilico": [
+            4.99,
+            -1
+        ],
+        "Restaurant Bel Canto": [
+            4.99,
+            -1
+        ],
+        "Restaurant Bistro-Burghez": [
+            4.99,
+            -1
+        ],
+        "Restaurant Cabana": [
+            4.99,
+            -1
+        ],
+        "Restaurant Callisto": [
+            -1,
+            5.99
+        ],
+        "Restaurant Cantine Vitan": [
+            -1,
+            6.99
+        ],
+        "Restaurant Capitol": [
+            4.99,
+            -1
+        ],
+        "Restaurant Capri": [
+            4.99,
+            -1
+        ],
+        "Restaurant Casa Doina": [
+            4.99,
+            -1
+        ],
+        "Restaurant Casa Ede": [
+            -1,
+            3.99
+        ],
+        "Restaurant Casa Victor": [
+            0.0,
+            -1
+        ],
+        "Restaurant Caupona": [
+            4.99,
+            -1
+        ],
+        "Restaurant Cesme": [
+            4.99,
+            -1
+        ],
+        "Restaurant China Town": [
+            -1,
+            6.99
+        ],
+        "Restaurant Chinezesc Nihao": [
+            4.99,
+            -1
+        ],
+        "Restaurant Chong Qing": [
+            -1,
+            5.99
+        ],
+        "Restaurant Cinas": [
+            0.0,
+            -1
+        ],
+        "Restaurant Cleopatra": [
+            4.99,
+            -1
+        ],
+        "Restaurant Club Art Papillon": [
+            4.99,
+            -1
+        ],
+        "Restaurant Cocosu Rosu": [
+            4.99,
+            -1
+        ],
+        "Restaurant Cosmopolitan": [
+            4.99,
+            -1
+        ],
+        "Restaurant Da Giulio": [
+            4.99,
+            -1
+        ],
+        "Restaurant Dada": [
+            4.99,
+            -1
+        ],
+        "Restaurant Diplomat": [
+            0.0,
+            -1
+        ],
+        "Restaurant Dristor": [
+            4.99,
+            4.5
+        ],
+        "Restaurant Elena": [
+            4.99,
+            -1
+        ],
+        "Restaurant Elisabeta": [
+            4.99,
+            -1
+        ],
+        "Restaurant Fast": [
+            4.99,
+            -1
+        ],
+        "Restaurant Floare de Cactus": [
+            4.99,
+            -1
+        ],
+        "Restaurant Floreal": [
+            4.99,
+            -1
+        ],
+        "Restaurant Floreal Grill": [
+            4.99,
+            -1
+        ],
+        "Restaurant Galeto": [
+            7.99,
+            -1
+        ],
+        "Restaurant Gedi Diham": [
+            4.99,
+            -1
+        ],
+        "Restaurant Gedi Titan": [
+            4.99,
+            -1
+        ],
+        "Restaurant Golden Woks chinese food": [
+            0.0,
+            -1
+        ],
+        "Restaurant Home": [
+            0.0,
+            -1
+        ],
+        "Restaurant Hora": [
+            4.99,
+            -1
+        ],
+        "Restaurant Il locale": [
+            4.99,
+            -1
+        ],
+        "Restaurant Infinit": [
+            4.99,
+            -1
+        ],
+        "Restaurant Interbelic": [
+            4.99,
+            -1
+        ],
+        "Restaurant JOY": [
+            4.99,
+            -1
+        ],
+        "Restaurant Kabo": [
+            4.99,
+            -1
+        ],
+        "Restaurant Kunchai": [
+            9.0,
+            -1
+        ],
+        "Restaurant La Gafe": [
+            4.99,
+            -1
+        ],
+        "Restaurant La Pescaderia Pipera Plaza": [
+            4.99,
+            -1
+        ],
+        "Restaurant Le Boutique - Food Concept Store": [
+            4.99,
+            -1
+        ],
+        "Restaurant Long Fong": [
+            4.99,
+            -1
+        ],
+        "Restaurant Los`": [
+            4.99,
+            -1
+        ],
+        "Restaurant L\u2019Incontro Berceni": [
+            4.99,
+            -1
+        ],
+        "Restaurant Medieval Excalibur": [
+            4.99,
+            4.99
+        ],
+        "Restaurant Minish": [
+            4.99,
+            -1
+        ],
+        "Restaurant Mode": [
+            0.0,
+            -1
+        ],
+        "Restaurant Mojo": [
+            4.99,
+            -1
+        ],
+        "Restaurant Monarh": [
+            4.99,
+            -1
+        ],
+        "Restaurant No Name": [
+            0.0,
+            -1
+        ],
+        "Restaurant No. 10": [
+            4.99,
+            5.99
+        ],
+        "Restaurant O`grad\u00e1": [
+            4.99,
+            -1
+        ],
+        "Restaurant Paradise": [
+            -1,
+            3.99
+        ],
+        "Restaurant Park": [
+            5.0,
+            -1
+        ],
+        "Restaurant Pasteria dei Signori": [
+            4.99,
+            -1
+        ],
+        "Restaurant Pedro's": [
+            -1,
+            6.99
+        ],
+        "Restaurant Per Tutti": [
+            4.99,
+            -1
+        ],
+        "Restaurant Provence Iancului": [
+            -1,
+            0.0
+        ],
+        "Restaurant Ramada Nord": [
+            4.99,
+            -1
+        ],
+        "Restaurant Saidoun": [
+            4.99,
+            -1
+        ],
+        "Restaurant Solitoo": [
+            4.99,
+            -1
+        ],
+        "Restaurant Specialy": [
+            4.99,
+            -1
+        ],
+        "Restaurant Spotlight Veranda Mall": [
+            4.99,
+            -1
+        ],
+        "Restaurant Stejarii": [
+            4.99,
+            -1
+        ],
+        "Restaurant SuperMercato": [
+            4.99,
+            -1
+        ],
+        "Restaurant Teo`s": [
+            4.99,
+            -1
+        ],
+        "Restaurant Traditional": [
+            4.99,
+            -1
+        ],
+        "Restaurant Unguresc Duna": [
+            -1,
+            6.99
+        ],
+        "Restaurant Vatra": [
+            4.99,
+            4.99
+        ],
+        "Restaurant Vulturul": [
+            4.99,
+            -1
+        ],
+        "Restaurant You & Me Delivery": [
+            4.99,
+            -1
+        ],
+        "Restaurant Yvi`s": [
+            0.0,
+            -1
+        ],
+        "Restaurant ZEPP": [
+            4.99,
+            -1
+        ],
+        "Restaurant Zatara": [
+            4.99,
+            -1
+        ],
+        "Restaurant Zet": [
+            4.99,
+            -1
+        ],
+        "Restaurant alSafir Lebanese Food": [
+            0.0,
+            -1
+        ],
+        "Restaurant la Gemeni": [
+            4.99,
+            -1
+        ],
+        "Restaurant si Ferma Cocosu` Rosu": [
+            4.99,
+            -1
+        ],
+        "Resto Aperto": [
+            4.99,
+            6.99
+        ],
+        "Retro Pub": [
+            4.99,
+            -1
+        ],
+        "Ribs Bar&Grill": [
+            4.99,
+            -1
+        ],
+        "Ricky`s": [
+            4.99,
+            -1
+        ],
+        "Rigatoni Pasta Bar Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Ristorante Casale": [
+            6.99,
+            -1
+        ],
+        "Ristorante Pizzeria di`Tonyo Delivery": [
+            -1,
+            0.0
+        ],
+        "Ristorante Presto": [
+            4.99,
+            -1
+        ],
+        "Ro-Dog by Etno Food": [
+            4.99,
+            -1
+        ],
+        "Rocca by The Jar": [
+            4.99,
+            -1
+        ],
+        "Rojo Cake": [
+            4.99,
+            4.99
+        ],
+        "Rojo Cake Boutique": [
+            -1,
+            4.99
+        ],
+        "Roll`N Roast Rotiserie": [
+            4.99,
+            -1
+        ],
+        "Rolls": [
+            4.99,
+            6.99
+        ],
+        "Romanesc ca la mama": [
+            4.99,
+            -1
+        ],
+        "Romanesc, pe gustul tau": [
+            4.99,
+            -1
+        ],
+        "Romanian Grill": [
+            4.99,
+            -1
+        ],
+        "Romanian Mix Food": [
+            4.99,
+            -1
+        ],
+        "RoscoVan Ribbz": [
+            4.99,
+            -1
+        ],
+        "Rosetti Kebab": [
+            4.99,
+            -1
+        ],
+        "Rossini Bistro": [
+            4.99,
+            -1
+        ],
+        "Rosti": [
+            4.99,
+            -1
+        ],
+        "Rotiseria Halal": [
+            4.99,
+            -1
+        ],
+        "Rotiserie": [
+            4.99,
+            -1
+        ],
+        "Rotiserie Puiu` Mamii": [
+            0.0,
+            -1
+        ],
+        "Rowa Garden": [
+            4.99,
+            -1
+        ],
+        "Roxy Pub": [
+            4.99,
+            -1
+        ],
+        "Royal Kebap": [
+            4.99,
+            -1
+        ],
+        "Royal Sushi Restaurant": [
+            4.99,
+            -1
+        ],
+        "Rulota Famous Waffles": [
+            4.99,
+            -1
+        ],
+        "Rustic Auchan Militari": [
+            4.99,
+            -1
+        ],
+        "Rustic Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Rustic Auchan Vitan": [
+            4.99,
+            -1
+        ],
+        "Rustic Basarab": [
+            4.99,
+            -1
+        ],
+        "Rustic Complex Baneasa Feeria": [
+            4.99,
+            -1
+        ],
+        "Rustic Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Rustic Park Lake": [
+            4.99,
+            -1
+        ],
+        "Rustic Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Rustic Veranda Mall": [
+            4.99,
+            -1
+        ],
+        "Rustificio": [
+            0.0,
+            -1
+        ],
+        "Rustificio Chitila": [
+            0.0,
+            -1
+        ],
+        "Ruva Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "Ryan Grill": [
+            4.99,
+            -1
+        ],
+        "SAGAPO GYROS": [
+            4.99,
+            -1
+        ],
+        "SARA Bacanie Popa Petre": [
+            -1,
+            5.99
+        ],
+        "SHAORMERIA C&A": [
+            4.99,
+            5.99
+        ],
+        "SHAORMERIA C&A UVERTURII": [
+            4.99,
+            -1
+        ],
+        "SHIN SUSHI": [
+            4.99,
+            0.0
+        ],
+        "SHIN SUSHI Progresului": [
+            4.99,
+            -1
+        ],
+        "SNAP Lounge": [
+            4.99,
+            -1
+        ],
+        "SUBLIMMME": [
+            4.99,
+            -1
+        ],
+        "SUBWAY Cocor": [
+            -1,
+            3.99
+        ],
+        "SUMAC Lebanese Food Station": [
+            4.99,
+            -1
+        ],
+        "SUSHI.RO Parc": [
+            -1,
+            0.0
+        ],
+        "SUSHIatelier": [
+            -1,
+            6.99
+        ],
+        "Sabatini Basarabia": [
+            0.0,
+            -1
+        ],
+        "Sabatini Domenii": [
+            0.0,
+            -1
+        ],
+        "Sabatini Pizza & Restaurant Basarabia": [
+            -1,
+            0.0
+        ],
+        "Sabatini Tei": [
+            0.0,
+            -1
+        ],
+        "Sahin Kebap": [
+            4.99,
+            -1
+        ],
+        "Saint Roastery": [
+            4.99,
+            -1
+        ],
+        "Salad Box Baneasa": [
+            4.99,
+            -1
+        ],
+        "Salad Box Bucuresti Mall": [
+            4.99,
+            -1
+        ],
+        "Salad Box Mall Vitan": [
+            -1,
+            6.99
+        ],
+        "Salad Box Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Salad Box ParkLake": [
+            4.99,
+            -1
+        ],
+        "Salad Box Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Salad Box Promenada": [
+            4.99,
+            -1
+        ],
+        "Salad Corner": [
+            3.99,
+            -1
+        ],
+        "Salad revolution": [
+            4.99,
+            -1
+        ],
+        "Salajan Bodrum doner kebap": [
+            4.99,
+            -1
+        ],
+        "Salajan food for home": [
+            4.99,
+            -1
+        ],
+        "Salon Golescu": [
+            4.99,
+            5.99
+        ],
+        "Salt and Pepper Catering": [
+            4.99,
+            -1
+        ],
+        "Samsara": [
+            4.99,
+            5.99
+        ],
+        "Samsara Bucuresti Delivery": [
+            -1,
+            5.99
+        ],
+        "San Marino": [
+            -1,
+            0.0
+        ],
+        "Sana Kitchen Hut": [
+            4.99,
+            -1
+        ],
+        "Santiago Kitchen": [
+            4.99,
+            -1
+        ],
+        "Santorini": [
+            4.99,
+            6.99
+        ],
+        "Santorini Restaurant": [
+            -1,
+            6.99
+        ],
+        "Sara Bistro Otopeni": [
+            4.99,
+            -1
+        ],
+        "Sara Floreasca": [
+            4.99,
+            -1
+        ],
+        "Sara Food": [
+            4.99,
+            -1
+        ],
+        "Sara Green Aviatiei": [
+            4.99,
+            -1
+        ],
+        "Sara Green Victoriei": [
+            4.99,
+            6.99
+        ],
+        "Sara Popa Petre": [
+            4.99,
+            -1
+        ],
+        "Sardin": [
+            4.99,
+            6.99
+        ],
+        "Sarea`n Bucate": [
+            4.99,
+            -1
+        ],
+        "Saucy": [
+            4.99,
+            -1
+        ],
+        "Savoury Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "Scandia Promenada": [
+            4.99,
+            -1
+        ],
+        "Scandia Sibiu Baneasa": [
+            4.99,
+            -1
+        ],
+        "Scandia Vitan": [
+            4.99,
+            -1
+        ],
+        "Schnitzel King": [
+            4.99,
+            -1
+        ],
+        "Scovergaria Micai": [
+            4.99,
+            -1
+        ],
+        "Sea House": [
+            -1,
+            5.99
+        ],
+        "Seafood Basket": [
+            4.99,
+            -1
+        ],
+        "Seed": [
+            -1,
+            6.99
+        ],
+        "Sehetas Berceni": [
+            9.9,
+            -1
+        ],
+        "Sehetas Pipera": [
+            9.9,
+            -1
+        ],
+        "Sehetas Sushi Bar": [
+            4.99,
+            6.99
+        ],
+        "Sempre Sano Catering": [
+            -1,
+            5.99
+        ],
+        "Serene": [
+            4.99,
+            -1
+        ],
+        "SettePizza": [
+            4.99,
+            -1
+        ],
+        "SettePizza- delivery": [
+            0.0,
+            -1
+        ],
+        "Shaorma Grill Oltenitei": [
+            0.0,
+            -1
+        ],
+        "Shaorma Kingdom": [
+            -1,
+            3.99
+        ],
+        "Shaorma La Baiatu": [
+            4.99,
+            6.99
+        ],
+        "Shaorma Pajura": [
+            4.99,
+            -1
+        ],
+        "Shaorma Trapezului": [
+            4.99,
+            -1
+        ],
+        "Shaorma pe bune": [
+            4.99,
+            -1
+        ],
+        "Shaorma pe bune Delivery": [
+            4.99,
+            -1
+        ],
+        "Shaormeria BNC": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Aerogarii": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Agronomiei": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Apusului": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Bioterra": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Crangasi": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Fundeni": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Baneasa Libertatii": [
+            4.99,
+            -1
+        ],
+        "Shaormeria C&A 1 Decembrie 1918": [
+            4.99,
+            -1
+        ],
+        "Shaormeria C&A Izvor": [
+            -1,
+            5.99
+        ],
+        "Shaormeria La Coltea Kebab": [
+            -1,
+            3.99
+        ],
+        "Shaormeria La Hussein (Gara de Nord)": [
+            4.99,
+            -1
+        ],
+        "Shaormeria La Hussein (Ion Mihalache)": [
+            4.99,
+            -1
+        ],
+        "Shaormeria PIPERA": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Salaj": [
+            4.99,
+            -1
+        ],
+        "Shaormeria Titan": [
+            4.99,
+            -1
+        ],
+        "Shawarma Corner": [
+            4.99,
+            -1
+        ],
+        "Sheikh": [
+            4.99,
+            -1
+        ],
+        "Shift": [
+            4.99,
+            -1
+        ],
+        "Shopron Gelato and Coffee": [
+            4.99,
+            -1
+        ],
+        "Simbio": [
+            4.99,
+            3.99
+        ],
+        "Simigeria Matei Piata Unirii": [
+            -1,
+            3.99
+        ],
+        "Simigeria Pizza LUCA - Batistei": [
+            -1,
+            3.99
+        ],
+        "Simigeria Pizza LUCA Obor": [
+            -1,
+            6.99
+        ],
+        "Simigerie Pizzerie Bratianu": [
+            4.99,
+            -1
+        ],
+        "Simple Italian": [
+            4.99,
+            -1
+        ],
+        "Simply Italian": [
+            4.99,
+            -1
+        ],
+        "Simposio Events": [
+            4.99,
+            -1
+        ],
+        "Sindbad": [
+            4.99,
+            -1
+        ],
+        "Smashd Brgr": [
+            4.99,
+            -1
+        ],
+        "Smile&Time Out": [
+            4.99,
+            -1
+        ],
+        "Smiley Pizza": [
+            4.99,
+            -1
+        ],
+        "Smiley Pizza Delivery": [
+            4.99,
+            -1
+        ],
+        "Smokareala @ Mendelev": [
+            4.99,
+            -1
+        ],
+        "Smokareala @ Mercato": [
+            4.99,
+            -1
+        ],
+        "Snap Bar & Lounge": [
+            -1,
+            6.99
+        ],
+        "Sole D`Italia": [
+            4.99,
+            -1
+        ],
+        "Sophie`s choices": [
+            4.99,
+            -1
+        ],
+        "Sopranos Specialty Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "Sorridi Pizza": [
+            4.99,
+            -1
+        ],
+        "Soup Up! - Baneasa Shopping City": [
+            4.99,
+            -1
+        ],
+        "Soup Up! Park Lake": [
+            4.99,
+            -1
+        ],
+        "Soup Up! Promenada": [
+            4.99,
+            -1
+        ],
+        "South Burger Berceni": [
+            5.0,
+            -1
+        ],
+        "South Burger Unirii": [
+            4.99,
+            5.0
+        ],
+        "Spartan Esplanada Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Spartan Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Spartan Orhideea": [
+            4.99,
+            -1
+        ],
+        "Spartan Vitan": [
+            4.99,
+            -1
+        ],
+        "Special Italy": [
+            4.99,
+            -1
+        ],
+        "Specialitati cu Gust": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Cora Alexandriei": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Cora Lujerului": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Cora Pantelimon": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Dristor": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Popesti Leordeni": [
+            4.99,
+            -1
+        ],
+        "Speed Pizza Romana": [
+            -1,
+            6.99
+        ],
+        "Speed Pizza- Piata Romana": [
+            4.99,
+            -1
+        ],
+        "Sport House": [
+            4.99,
+            -1
+        ],
+        "SpringTrest Traian": [
+            -1,
+            4.99
+        ],
+        "SpritzBox Iacob Felix": [
+            4.99,
+            -1
+        ],
+        "SpritzBox Nicolae Balcescu": [
+            4.99,
+            -1
+        ],
+        "SpritzBox Nord": [
+            4.99,
+            -1
+        ],
+        "St. Patrick Irish Pub": [
+            4.99,
+            -1
+        ],
+        "St.Patrick Irish Pub": [
+            -1,
+            3.99
+        ],
+        "Stadio Delivery Herastrau": [
+            4.99,
+            -1
+        ],
+        "Stadio Delivery Unirii": [
+            4.99,
+            -1
+        ],
+        "Stadio Delivery Universitate": [
+            4.99,
+            4.99
+        ],
+        "Stamazzancoada": [
+            4.99,
+            -1
+        ],
+        "Starbucks\u00ae Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Starbucks\u00ae Day Tower Bucure\u0219ti": [
+            -1,
+            3.99
+        ],
+        "Statia Americana de la Jacq Pot": [
+            9.99,
+            -1
+        ],
+        "Statia Litoral de la Shoteria": [
+            4.99,
+            -1
+        ],
+        "SteakHouse Meat & Grill": [
+            4.99,
+            -1
+        ],
+        "Stick It Chinese Chef": [
+            4.99,
+            -1
+        ],
+        "Stradale": [
+            4.99,
+            -1
+        ],
+        "Stradale Bucharest Business Park": [
+            4.99,
+            -1
+        ],
+        "Stradale Campus": [
+            4.99,
+            -1
+        ],
+        "Stradale Expo Park": [
+            4.99,
+            -1
+        ],
+        "Stradivaris": [
+            0.0,
+            -1
+        ],
+        "Street Bistro": [
+            4.99,
+            -1
+        ],
+        "StreetXo": [
+            4.99,
+            -1
+        ],
+        "Subway Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Suento": [
+            4.99,
+            -1
+        ],
+        "Supa Dupa": [
+            4.99,
+            -1
+        ],
+        "Supele Mode Mogosoaia": [
+            4.99,
+            -1
+        ],
+        "Supele Mode Otopeni": [
+            4.99,
+            -1
+        ],
+        "Supele Mode Tunari": [
+            4.99,
+            -1
+        ],
+        "Sushi Bako": [
+            0.0,
+            -1
+        ],
+        "Sushi Day": [
+            4.99,
+            -1
+        ],
+        "Sushi Gallery": [
+            4.99,
+            -1
+        ],
+        "Sushi Garden": [
+            4.99,
+            -1
+        ],
+        "Sushi Go": [
+            0.0,
+            -1
+        ],
+        "Sushi House": [
+            4.99,
+            -1
+        ],
+        "Sushi House Tunari": [
+            4.99,
+            -1
+        ],
+        "Sushi MORE": [
+            4.99,
+            -1
+        ],
+        "Sushi Maki Box": [
+            4.99,
+            -1
+        ],
+        "Sushi Master Balotesti": [
+            15.0,
+            -1
+        ],
+        "Sushi Master Bucuresti Halelor": [
+            4.99,
+            -1
+        ],
+        "Sushi Master Lujerului": [
+            4.99,
+            -1
+        ],
+        "Sushi Master Titan": [
+            4.99,
+            -1
+        ],
+        "Sushi Master- Ceaikovski": [
+            4.99,
+            -1
+        ],
+        "Sushi Space": [
+            4.99,
+            -1
+        ],
+        "Sushi Terra Veranda": [
+            -1,
+            6.99
+        ],
+        "Sushi Time Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Sushi Yoko Yoko": [
+            4.99,
+            0.0
+        ],
+        "Sushi.ro Park": [
+            4.99,
+            -1
+        ],
+        "Sushi@home": [
+            4.99,
+            -1
+        ],
+        "SushiRoom": [
+            4.99,
+            -1
+        ],
+        "Suzana Ribs & Wings": [
+            4.99,
+            -1
+        ],
+        "Sweet By MarVio Lizeanu": [
+            4.99,
+            -1
+        ],
+        "Sweet Concept": [
+            4.99,
+            -1
+        ],
+        "Sweet Gallery Titan": [
+            4.99,
+            -1
+        ],
+        "Sweet Pancakes": [
+            4.99,
+            -1
+        ],
+        "Sweet Pancakes Plaza": [
+            4.99,
+            -1
+        ],
+        "Sweet and pickled": [
+            4.99,
+            3.99
+        ],
+        "Sweet by MarVio Orhideea": [
+            4.99,
+            -1
+        ],
+        "Sweet by MarVio ParkLake": [
+            4.99,
+            -1
+        ],
+        "Sweet by MarVio Veranda Mall": [
+            4.99,
+            -1
+        ],
+        "Sweet by MarVio Vulcan": [
+            4.99,
+            -1
+        ],
+        "Sweetology": [
+            4.99,
+            -1
+        ],
+        "Sweetology Victoriei": [
+            4.99,
+            -1
+        ],
+        "Sweetopia": [
+            4.99,
+            -1
+        ],
+        "Switch Eat Pipera": [
+            4.99,
+            -1
+        ],
+        "Switch. Eat At Home": [
+            4.99,
+            -1
+        ],
+        "Switch. Eat Bistro": [
+            4.99,
+            -1
+        ],
+        "Switch.Eat": [
+            -1,
+            6.99
+        ],
+        "TAQUERIA": [
+            4.99,
+            6.99
+        ],
+        "TAQUERIA Eminescu": [
+            -1,
+            6.99
+        ],
+        "TAQUERIA Plevnei": [
+            4.99,
+            -1
+        ],
+        "TEXAS BBQ Traian": [
+            -1,
+            5.99
+        ],
+        "THE MOLECULE EFFECT": [
+            4.99,
+            6.99
+        ],
+        "TOP KEBAB & GRILL": [
+            4.99,
+            -1
+        ],
+        "TRESS 2 Caffe & Lounge": [
+            -1,
+            6.99
+        ],
+        "Taboo Doner": [
+            4.99,
+            -1
+        ],
+        "Taco Bell Baneasa": [
+            4.99,
+            -1
+        ],
+        "Taco Bell Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Taco Bell Mega Mall": [
+            4.99,
+            -1
+        ],
+        "Taco Bell Park Lake": [
+            4.99,
+            -1
+        ],
+        "Tacos Factory": [
+            4.99,
+            -1
+        ],
+        "Tacos Factory Gorjului": [
+            4.99,
+            -1
+        ],
+        "Tag Aperitivo Bar": [
+            4.99,
+            -1
+        ],
+        "Taj": [
+            4.99,
+            -1
+        ],
+        "Take a bite Baneasa": [
+            4.99,
+            -1
+        ],
+        "Taksim Afi Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Taksim Auchan Titan": [
+            4.99,
+            -1
+        ],
+        "Taksim Baneasa": [
+            4.99,
+            -1
+        ],
+        "Taksim Park Lake": [
+            4.99,
+            -1
+        ],
+        "Taksim Promenada": [
+            4.99,
+            -1
+        ],
+        "Taksim Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Taksim Vitan Mall": [
+            4.99,
+            6.99
+        ],
+        "Tap Pizza": [
+            4.99,
+            -1
+        ],
+        "Tap Pizza Brailita": [
+            4.99,
+            -1
+        ],
+        "Taqueria El Torito": [
+            -1,
+            4.99
+        ],
+        "Tasty Box": [
+            4.0,
+            -1
+        ],
+        "Tasty Kebab": [
+            4.99,
+            -1
+        ],
+        "Tasty Pipera": [
+            4.99,
+            -1
+        ],
+        "Tatu Bar&Grill": [
+            10.0,
+            -1
+        ],
+        "Tava cu de toate Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Tava cu de toate Grand Arena": [
+            4.99,
+            -1
+        ],
+        "Tava cu de toate Militari": [
+            4.99,
+            -1
+        ],
+        "Tava cu de toate Royal Hospital": [
+            4.99,
+            -1
+        ],
+        "Taverna Covaci": [
+            4.99,
+            3.99
+        ],
+        "Taverna Domneasca": [
+            4.99,
+            -1
+        ],
+        "Taverna Fierarilor (Petrolului)": [
+            5.0,
+            -1
+        ],
+        "Taverna Fierarilor- Ilioara": [
+            5.0,
+            -1
+        ],
+        "Taverna Racilor": [
+            4.99,
+            6.99
+        ],
+        "Taverna Racilor Obor": [
+            -1,
+            6.99
+        ],
+        "Taverna Sarbului": [
+            4.99,
+            4.99
+        ],
+        "Taverna Voichitei by Hop Garden": [
+            4.99,
+            -1
+        ],
+        "Taverna la Jar": [
+            4.99,
+            -1
+        ],
+        "Taza Grill": [
+            4.99,
+            -1
+        ],
+        "Ted's Coffee - Tineretului": [
+            -1,
+            6.99
+        ],
+        "Teliatina food": [
+            4.99,
+            -1
+        ],
+        "Templul Soarelui Eminescu": [
+            -1,
+            6.99
+        ],
+        "Templul Soarelui Foisor": [
+            -1,
+            5.99
+        ],
+        "Templul Soarelui Vasile Lascar": [
+            -1,
+            6.99
+        ],
+        "TeppanFood": [
+            4.99,
+            -1
+        ],
+        "Terasa Ancor": [
+            4.99,
+            -1
+        ],
+        "Terasa Firenze Tineretului": [
+            4.99,
+            6.99
+        ],
+        "Terasa Florilor": [
+            4.99,
+            6.99
+        ],
+        "Terasa Lacramioarei": [
+            4.99,
+            -1
+        ],
+        "Terasa Pucheni": [
+            4.99,
+            -1
+        ],
+        "Terasa la Moldoveanu": [
+            4.99,
+            -1
+        ],
+        "Terasa la Moldoveanu delivery": [
+            7.99,
+            -1
+        ],
+        "Teto": [
+            4.99,
+            -1
+        ],
+        "Texas BBQ": [
+            4.99,
+            5.99
+        ],
+        "Thaice Cream": [
+            4.99,
+            -1
+        ],
+        "The Alchemist": [
+            4.99,
+            -1
+        ],
+        "The Bazaar": [
+            4.99,
+            -1
+        ],
+        "The Bear Necessities Coffee Shop": [
+            4.99,
+            -1
+        ],
+        "The Biker Coffee": [
+            4.99,
+            -1
+        ],
+        "The Bridge": [
+            4.99,
+            -1
+        ],
+        "The Burger Store": [
+            4.99,
+            4.99
+        ],
+        "The Burger Store Delivery": [
+            4.99,
+            4.99
+        ],
+        "The Burgers by Paul Vrabie": [
+            4.99,
+            6.99
+        ],
+        "The Burgr Factory Bucuresti": [
+            -1,
+            6.99
+        ],
+        "The Canteen": [
+            4.99,
+            -1
+        ],
+        "The Empanadas Factory": [
+            0.0,
+            -1
+        ],
+        "The Gate": [
+            4.99,
+            -1
+        ],
+        "The Globe Restaurant Grigorescu": [
+            4.99,
+            -1
+        ],
+        "The Great Hill - Wine&Cheese": [
+            4.99,
+            -1
+        ],
+        "The Grill House": [
+            4.99,
+            -1
+        ],
+        "The Grill House Bucuresti": [
+            4.99,
+            -1
+        ],
+        "The Grill House Burger si Coaste": [
+            4.99,
+            -1
+        ],
+        "The Mark Restaurant&Pub": [
+            4.99,
+            -1
+        ],
+        "The Millenial Burger": [
+            4.99,
+            -1
+        ],
+        "The Mob Burger": [
+            4.99,
+            -1
+        ],
+        "The Office Restaurant - Pipera": [
+            4.99,
+            -1
+        ],
+        "The Old Red's Jub Pub": [
+            -1,
+            6.99
+        ],
+        "The Old Sibiu": [
+            -1,
+            4.99
+        ],
+        "The Plate": [
+            4.99,
+            -1
+        ],
+        "The Pub Universitatii": [
+            5.0,
+            -1
+        ],
+        "The Roof Vitan": [
+            -1,
+            6.99
+        ],
+        "The S`aint": [
+            4.99,
+            -1
+        ],
+        "The Smokers": [
+            4.99,
+            -1
+        ],
+        "The Soup Carousel": [
+            4.99,
+            6.99
+        ],
+        "The Temple": [
+            4.99,
+            5.99
+        ],
+        "The Temple Social Pub": [
+            -1,
+            5.99
+        ],
+        "The Twins Restaurant & Pizzerie": [
+            4.99,
+            -1
+        ],
+        "The White Cottage": [
+            4.99,
+            -1
+        ],
+        "The kebab food": [
+            4.99,
+            -1
+        ],
+        "Thoma\u2019s Pizza": [
+            4.99,
+            -1
+        ],
+        "Thoma\u2019s Pretzel&Bakery": [
+            4.99,
+            -1
+        ],
+        "Time 4 Pizza": [
+            4.99,
+            6.99
+        ],
+        "Time Out Cafe": [
+            4.99,
+            -1
+        ],
+        "Timeout Burgers & Stakes": [
+            -1,
+            4.99
+        ],
+        "Toan`s BNR": [
+            4.99,
+            -1
+        ],
+        "Toan`s Baneasa": [
+            4.99,
+            -1
+        ],
+        "Toan`s Magheru": [
+            4.99,
+            -1
+        ],
+        "Toan`s Promenada": [
+            4.99,
+            -1
+        ],
+        "Toan`s Veranda": [
+            4.99,
+            -1
+        ],
+        "Toka": [
+            -1,
+            4.99
+        ],
+        "Tonyo Delivery": [
+            4.99,
+            0.0
+        ],
+        "Tonyo Delivery Bucuresti": [
+            -1,
+            0.0
+        ],
+        "Tookie Meatless Street Food": [
+            4.99,
+            -1
+        ],
+        "Tort de Bezea": [
+            4.99,
+            -1
+        ],
+        "Tort de Bezea Roma": [
+            4.99,
+            -1
+        ],
+        "Totu' Bun": [
+            -1,
+            6.99
+        ],
+        "Traditional by Almondo Militari": [
+            3.99,
+            -1
+        ],
+        "Traditional by Almondo Titan": [
+            3.99,
+            -1
+        ],
+        "Traditional by Zarada Restaurant": [
+            4.99,
+            -1
+        ],
+        "Trattoria 33": [
+            4.99,
+            -1
+        ],
+        "Trattoria Adagio": [
+            -1,
+            6.99
+        ],
+        "Trattoria Amici": [
+            4.99,
+            -1
+        ],
+        "Trattoria Angoli": [
+            4.99,
+            -1
+        ],
+        "Trattoria Arte Pasta - Domeniile Saftica": [
+            5.0,
+            -1
+        ],
+        "Trattoria Belvedere": [
+            0.0,
+            0.0
+        ],
+        "Trattoria Borghese": [
+            4.99,
+            -1
+        ],
+        "Trattoria Buongiorno Baneasa": [
+            4.99,
+            -1
+        ],
+        "Trattoria Buongiorno Primaverii": [
+            4.99,
+            -1
+        ],
+        "Trattoria Buongiorno Victoriei": [
+            4.99,
+            -1
+        ],
+        "Trattoria Della Nonna": [
+            -1,
+            6.99
+        ],
+        "Trattoria Fresca": [
+            4.99,
+            -1
+        ],
+        "Trattoria Giovanni": [
+            0.0,
+            -1
+        ],
+        "Trattoria Il Calcio - Floreasca": [
+            4.99,
+            -1
+        ],
+        "Trattoria Il Calcio Delea Veche": [
+            -1,
+            6.99
+        ],
+        "Trattoria Il Calcio Kiseleff": [
+            4.99,
+            -1
+        ],
+        "Trattoria Il Calcio Magheru": [
+            -1,
+            5.99
+        ],
+        "Trattoria Il Calcio \u2013 Delea Veche": [
+            4.99,
+            -1
+        ],
+        "Trattoria Il Calcio-Magheru": [
+            4.99,
+            -1
+        ],
+        "Trattoria Il Calcio-Universitate": [
+            4.99,
+            -1
+        ],
+        "Trattoria Lugo": [
+            -1,
+            5.99
+        ],
+        "Trattoria Mellini": [
+            4.99,
+            -1
+        ],
+        "Trattoria Militari": [
+            4.99,
+            -1
+        ],
+        "Trattoria Monza Baba Novac": [
+            4.99,
+            -1
+        ],
+        "Trattoria Monza Dr Taberei": [
+            4.99,
+            -1
+        ],
+        "Trattoria Pane e Vino": [
+            4.99,
+            6.99
+        ],
+        "Trattoria Pisano": [
+            4.99,
+            -1
+        ],
+        "Trattoria Pizzeria Sardegna": [
+            4.99,
+            -1
+        ],
+        "Trattoria Planet": [
+            4.99,
+            -1
+        ],
+        "Trattoria Planet Drumul Taberei": [
+            0.0,
+            -1
+        ],
+        "Trattoria Planet giurgiului": [
+            0.0,
+            -1
+        ],
+        "Trattoria Quattro": [
+            0.0,
+            -1
+        ],
+        "Trattoria Revi": [
+            4.99,
+            -1
+        ],
+        "Trattoria Roma": [
+            4.99,
+            4.99
+        ],
+        "Trattoria Venti": [
+            4.99,
+            -1
+        ],
+        "Trattoria Verdi Aviatorilor": [
+            4.99,
+            -1
+        ],
+        "Trattoria Verdi Unirii": [
+            4.99,
+            3.99
+        ],
+        "Trattoria Vivaldi": [
+            4.99,
+            -1
+        ],
+        "Trattoria Volante": [
+            4.99,
+            -1
+        ],
+        "Treevi Victoriei": [
+            -1,
+            3.99
+        ],
+        "Treevi pizza-Bulevardul Iuliu Maniu nr.7": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Bulevardul Nicolae Titulescu nr.11": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Calea Victoriei 87-89": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Calea Victoriei nr. 26": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Pia\u021ba Romana nr.9": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Strada Batistei nr.11": [
+            4.99,
+            -1
+        ],
+        "Treevi pizza-Strada Pia\u021ba Amzei nr. 7-9": [
+            4.99,
+            -1
+        ],
+        "Trenta Pizza Tineretului": [
+            -1,
+            4.95
+        ],
+        "Trenta Pizza- Timpuri Noi": [
+            4.8,
+            -1
+        ],
+        "Truff&Moi Delivery": [
+            4.99,
+            -1
+        ],
+        "Tucano Coffee Copacabana": [
+            4.99,
+            -1
+        ],
+        "Tucano Coffee Guatemala": [
+            4.99,
+            -1
+        ],
+        "Tucano Coffee Madagascar": [
+            4.99,
+            -1
+        ],
+        "Tucano Coffee Victoriei": [
+            -1,
+            5.99
+        ],
+        "Tucano Coffee Zimbabwe": [
+            4.99,
+            -1
+        ],
+        "Tudi`s Pizza": [
+            4.99,
+            -1
+        ],
+        "Tudor Gourmet Burgers": [
+            0.0,
+            -1
+        ],
+        "Tuk Tuk": [
+            4.99,
+            -1
+        ],
+        "Tuk Tuk Pho": [
+            4.99,
+            -1
+        ],
+        "Tuku.ro": [
+            0.0,
+            -1
+        ],
+        "Turkish Clasis": [
+            -1,
+            6.99
+        ],
+        "Turkish Dublubaz": [
+            4.99,
+            -1
+        ],
+        "Turkish Durum Kebab": [
+            4.99,
+            -1
+        ],
+        "Turkish Golden Kebab": [
+            -1,
+            6.99
+        ],
+        "Turkish Kitchen": [
+            4.99,
+            -1
+        ],
+        "Turkish Shaorma": [
+            4.99,
+            -1
+        ],
+        "Turquoise": [
+            4.99,
+            6.99
+        ],
+        "Turquoise Restaurant": [
+            -1,
+            6.99
+        ],
+        "Twin Cake": [
+            4.99,
+            -1
+        ],
+        "Two Chefs": [
+            4.99,
+            -1
+        ],
+        "Two Chefs Cotroceni": [
+            4.99,
+            -1
+        ],
+        "Two Chefs Dr Taberei": [
+            4.99,
+            -1
+        ],
+        "Tzaka Packa burger": [
+            4.99,
+            -1
+        ],
+        "U Mami": [
+            4.99,
+            -1
+        ],
+        "UNTOLD Magic Burger": [
+            2.99,
+            -1
+        ],
+        "Uanderful By The Lake": [
+            4.99,
+            -1
+        ],
+        "Uanderful Floreasca": [
+            4.99,
+            -1
+        ],
+        "Uncle Burger": [
+            4.99,
+            0.0
+        ],
+        "Uncle John Cocor": [
+            4.99,
+            3.99
+        ],
+        "Uncle John Dr. Taberei": [
+            4.99,
+            -1
+        ],
+        "Uncle John Militari": [
+            4.99,
+            -1
+        ],
+        "Uncle John Park Lake": [
+            4.99,
+            -1
+        ],
+        "Uncle John Plaza Romania": [
+            4.99,
+            -1
+        ],
+        "Uncle John Sun Plaza": [
+            4.99,
+            -1
+        ],
+        "Unison - Plant Based Food": [
+            4.99,
+            -1
+        ],
+        "United Burgers": [
+            4.99,
+            -1
+        ],
+        "Urban Bistro": [
+            -1,
+            4.99
+        ],
+        "Urban Eat": [
+            4.99,
+            -1
+        ],
+        "Urban Greeks Gyroseria": [
+            4.99,
+            -1
+        ],
+        "Urban House": [
+            4.99,
+            -1
+        ],
+        "Urban Hub Coffee": [
+            -1,
+            4.99
+        ],
+        "Urban Monkey - Amzei": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Baneasa BT": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Eurotower": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Floreasca": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Piata Presei Libere": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - S-Park": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Sema Park": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Swan": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Universitate": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Upground": [
+            4.99,
+            -1
+        ],
+        "Urban Monkey - Victoriei": [
+            4.99,
+            -1
+        ],
+        "VELOCE PIZZA": [
+            0.0,
+            -1
+        ],
+        "VELOCE PIZZA E` CUCINA": [
+            0.0,
+            -1
+        ],
+        "VERANDA RISTORANTE & PIZZERIA": [
+            4.99,
+            -1
+        ],
+        "VacaMuuu": [
+            4.99,
+            -1
+        ],
+        "Vacaju": [
+            4.99,
+            -1
+        ],
+        "Vatra Satului": [
+            4.99,
+            -1
+        ],
+        "Vegan & Raw by Zarada Restaurant": [
+            4.99,
+            -1
+        ],
+        "Vegan Green": [
+            4.99,
+            -1
+        ],
+        "Velocita": [
+            4.99,
+            -1
+        ],
+        "Velocita- Campineanu": [
+            4.99,
+            -1
+        ],
+        "Verbun": [
+            4.99,
+            -1
+        ],
+        "Verv Kitchen - vegan & bio": [
+            -1,
+            3.99
+        ],
+        "Vibes Cafe": [
+            4.99,
+            -1
+        ],
+        "Victorita Pescarita": [
+            4.99,
+            -1
+        ],
+        "Victory Burger": [
+            4.99,
+            -1
+        ],
+        "Vienna Original Wrust": [
+            4.99,
+            -1
+        ],
+        "Vienna Original Wrust Berceni": [
+            4.99,
+            -1
+        ],
+        "Viking Doner&Grill": [
+            4.99,
+            -1
+        ],
+        "Village Restaurant (The Globe)": [
+            4.99,
+            -1
+        ],
+        "Vin&Co": [
+            4.99,
+            -1
+        ],
+        "Viva Vegano": [
+            -1,
+            6.99
+        ],
+        "Vivaldi Delivery": [
+            4.99,
+            -1
+        ],
+        "Vyro Raw & Vegan Bistro": [
+            -1,
+            6.99
+        ],
+        "WISH by Alexandra Beatrice": [
+            4.99,
+            -1
+        ],
+        "WU XING.Orzari": [
+            -1,
+            6.99
+        ],
+        "Wasabi Running Sushi Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Waterloo Taverne-Restaurant": [
+            -1,
+            5.99
+        ],
+        "Weiss Beer Garden": [
+            4.99,
+            -1
+        ],
+        "White Horse": [
+            4.99,
+            -1
+        ],
+        "Wing Eat": [
+            4.99,
+            -1
+        ],
+        "Wok pe Loc": [
+            4.99,
+            -1
+        ],
+        "Wu Xing Dinicu Golescu": [
+            4.99,
+            -1
+        ],
+        "Wu Xing Orzari": [
+            4.99,
+            -1
+        ],
+        "Wu Xing Salaj": [
+            4.99,
+            -1
+        ],
+        "Xanadu": [
+            4.99,
+            -1
+        ],
+        "Xclusive Grill": [
+            4.99,
+            3.99
+        ],
+        "Xclusive Grill & Crepes": [
+            4.99,
+            -1
+        ],
+        "Xclusive Grill&Crepes": [
+            -1,
+            3.99
+        ],
+        "Xclusive Italian": [
+            4.99,
+            -1
+        ],
+        "Xclusive Sweets and Crepes": [
+            4.99,
+            -1
+        ],
+        "Yasser": [
+            4.99,
+            -1
+        ],
+        "Yellow Bistro": [
+            4.99,
+            -1
+        ],
+        "Yellow.Menu Bucuresti": [
+            4.99,
+            -1
+        ],
+        "Yeye Canteen": [
+            4.99,
+            -1
+        ],
+        "YoYo Burger": [
+            4.99,
+            -1
+        ],
+        "Yolk - The Egg Station Herestrau": [
+            4.99,
+            -1
+        ],
+        "Yolk - the egg station": [
+            4.99,
+            -1
+        ],
+        "Yoshi": [
+            4.99,
+            0.0
+        ],
+        "Yuki": [
+            4.99,
+            -1
+        ],
+        "Yummy bubble tea & coffee": [
+            -1,
+            5.99
+        ],
+        "Yummy by Kiddo Baneasa": [
+            4.99,
+            -1
+        ],
+        "Yuppies Cafe&Wines": [
+            4.99,
+            -1
+        ],
+        "ZAO": [
+            -1,
+            0.0
+        ],
+        "Za German WurstWagen": [
+            4.99,
+            -1
+        ],
+        "Za German WurstWagen Baneasa": [
+            4.99,
+            -1
+        ],
+        "Za Lokal": [
+            4.99,
+            -1
+        ],
+        "Zaganu Bistro & Craft Beer Bar": [
+            -1,
+            6.99
+        ],
+        "Zambete dulci": [
+            4.99,
+            -1
+        ],
+        "Zarada Restaurant": [
+            4.99,
+            -1
+        ],
+        "Za\u2019atar Vulcan Value Centre": [
+            4.99,
+            -1
+        ],
+        "ZeZe Bistro": [
+            0.0,
+            -1
+        ],
+        "Zeama Buna Mosilor": [
+            -1,
+            4.99
+        ],
+        "Zeina Kebap Baicului": [
+            4.99,
+            -1
+        ],
+        "Zeina Kebap Drumul Taberei": [
+            4.99,
+            -1
+        ],
+        "Zeina Kebap Militari": [
+            4.99,
+            -1
+        ],
+        "Zen Garden": [
+            4.99,
+            4.99
+        ],
+        "Zen Garden Delivery": [
+            -1,
+            4.99
+        ],
+        "Zen Sushi - Pipera": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi - Sarroglia": [
+            -1,
+            4.99
+        ],
+        "Zen Sushi Caramfil": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi Dorobanti": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi Militari": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi Sarroglia": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi Tineretului": [
+            4.99,
+            -1
+        ],
+        "Zen Sushi Victoriei": [
+            4.99,
+            -1
+        ],
+        "Zephyros food & beverages": [
+            4.99,
+            -1
+        ],
+        "Zest Pizza": [
+            4.99,
+            3.99
+        ],
+        "Zest Pizza Vitan": [
+            4.99,
+            -1
+        ],
+        "Zest pizza Veteranilor": [
+            4.99,
+            -1
+        ],
+        "Zet Non Stop": [
+            -1,
+            3.99
+        ],
+        "Zeus Bakery": [
+            4.99,
+            -1
+        ],
+        "Zexe - Zahanaua Gastronomica": [
+            4.99,
+            -1
+        ],
+        "Zexe Zahana Sofia": [
+            4.99,
+            -1
+        ],
+        "amBurger cuPrajiti": [
+            4.99,
+            -1
+        ],
+        "hei Bucuresti (Vulcan) 2": [
+            -1,
+            6.99
+        ],
+        "iDracula": [
+            -1,
+            3.99
+        ],
+        "leLunch": [
+            4.99,
+            -1
+        ],
+        "oh!Salad Decebal": [
+            -1,
+            6.99
+        ],
+        "the EMBASSY Delivery": [
+            -1,
+            6.99
+        ],
+        "the spot": [
+            -1,
+            6.99
+        ],
+        "trickSHOT Food Market": [
+            4.99,
+            -1
+        ],
+        "trickSHOT Mega Mall": [
+            4.99,
+            -1
+        ],
+        "trickSHOT Promenada": [
+            4.99,
+            -1
+        ]
+    }
+}
