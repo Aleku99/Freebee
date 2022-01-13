@@ -11,11 +11,13 @@ if __name__ == "__main__":
 
     with open("out.json", "r", encoding='utf-8') as jsonFile:
         objs: dict = json.loads(jsonFile.read())
-        for cities in objs.values():
-            for city in cities:
+        cityArray = objs["cities"]
+        for cityObj in cityArray:
+            for city in cityObj:
+                cityData = cityObj[city]
                 docs = firestoreService.collection(u'countries/Romania/cities').where(u'name', '==',
-                                                                                      'Bucuresti').stream()
+                                                                                      cityData["name"]).stream()
                 cityUid = next(docs).id
                 firestoreService.collection(u'countries/Romania/cities').document(u'' + cityUid).update({
-                        'restaurants': city['restaurants']
+                        'restaurants': cityData['restaurants']
                 })
